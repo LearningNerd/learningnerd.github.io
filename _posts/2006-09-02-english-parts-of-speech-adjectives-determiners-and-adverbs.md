@@ -1,19 +1,17 @@
 ---
-layout: post
-title: English Parts of Speech: Adjectives, Determiners, and Adverbs
+layout: article
+title: "English Parts of Speech: Adjectives, Determiners, and Adverbs"
 date: 2006-09-02 09:38
-author: learningnerd
-comments: true
-categories: [English, Grammar, Language]
+categories: [English]
 permalink: /2006/09/02/english-parts-of-speech-adjectives-determiners-and-adverbs/
 ---
-<em>Series index: </em><a href="http://learningnerd.wordpress.com/2006/08/28/english-parts-of-speech-overview/"><em>English Parts of Speech Overview</em></a>
+<em>Series index: </em><a href="http://learningnerd.com/2006/08/28/english-parts-of-speech-overview/"><em>English Parts of Speech Overview</em></a>
 
 <p class="MsoNormal">&nbsp;</p>
 <h2>Adjectives</h2>
 Adjectives describe nouns. Simple as that. <a target="_blank" href="http://www.grammarstation.com/KnowyourAdjectives.html">Know Your Adjectives</a> has grammatical information about any adjective.
 <h3>Adjective Usage</h3>
-Adjectives are either <a target="_blank" href="http://en.wikipedia.org/wiki/Adjective#Attributive_and_predicative" title="Wikipedia - Adjective - Attributive and Predicative">attributive or predicative</a>. Attributive adjectives appear before the noun (<em>the red car</em>), while predicative adjectives appear after the noun and a linking <a href="http://learningnerd.wordpress.com/2006/08/31/english-parts-of-speech-verbs/" title="Verbs">verb</a> (<em>the car is red</em>). Almost every adjective can be attributive and predicative, with a few exceptions (<em>main</em>, <em>only</em>, etc.).
+Adjectives are either <a target="_blank" href="http://en.wikipedia.org/wiki/Adjective#Attributive_and_predicative" title="Wikipedia - Adjective - Attributive and Predicative">attributive or predicative</a>. Attributive adjectives appear before the noun (<em>the red car</em>), while predicative adjectives appear after the noun and a linking <a href="http://learningnerd.com/2006/08/31/english-parts-of-speech-verbs/" title="Verbs">verb</a> (<em>the car is red</em>). Almost every adjective can be attributive and predicative, with a few exceptions (<em>main</em>, <em>only</em>, etc.).
 
 Only <a target="_blank" href="http://www.arts.gla.ac.uk/SESLL/EngLang/LILT/gradadj.htm">Gradable Adjectives</a> can have comparative and superlative forms (<em>faster</em>, <em>fastest</em>, <em>older</em>, <em>oldest</em>); <a target="_blank" href="http://www.arts.gla.ac.uk/SESLL/EngLang/LILT/nongradadj.htm">Non-gradable Adjectives</a> (like <em>male</em>, <em>female</em>, <em>unique</em>, etc.) can only occur in their basic form, called the positive form (<em>fast</em>, <em>old</em>, <em>male</em>, <em>female</em>). See <a target="_blank" href="http://www.ego4u.com/en/cram-up/grammar/adjectives-adverbs/adjectives">Comparison of Adjectives</a> for a short review.
 
@@ -30,7 +28,7 @@ English has an unofficial rule regarding the order of ajdectives; for example, <
 </ul>
 <h3><a name="other" title="other"></a>Using Other Words Used As Adjectives</h3>
 <ul>
-	<li><a target="_blank" href="http://owl.english.purdue.edu/handouts/grammar/g_verbals.html#participles" title="Gerunds, Participles, and Infinitives - Participles"><strong>Participles</strong></a> - <em>cascading</em> waterfall, <em>broken</em> table, etc. Participles are <a href="http://learningnerd.wordpress.com/2006/08/31/english-parts-of-speech-verbs/" title="Verbs">verbs</a> used as adjectives, formed from a verb's present participle (<em>writing</em>, <em>wrecking</em>) or past participle (<em>written</em>, <em>wrecked</em>).</li>
+	<li><a target="_blank" href="http://owl.english.purdue.edu/handouts/grammar/g_verbals.html#participles" title="Gerunds, Participles, and Infinitives - Participles"><strong>Participles</strong></a> - <em>cascading</em> waterfall, <em>broken</em> table, etc. Participles are <a href="http://learningnerd.com/2006/08/31/english-parts-of-speech-verbs/" title="Verbs">verbs</a> used as adjectives, formed from a verb's present participle (<em>writing</em>, <em>wrecking</em>) or past participle (<em>written</em>, <em>wrecked</em>).</li>
 </ul>
 <ul>
 	<li><a target="_blank" href="http://dictionary.reference.com/help/faq/language/d26.html" title="Dictionary.com Word FAQs - What is the difference between an attributive noun and an adjective?"><strong>Attributive Nouns</strong></a><strong> or </strong><a target="_blank" href="http://www.bartleby.com/68/41/4141.html" title="The Columbia Guide to Standard American English - Noun Adjunct"><strong>Noun Adjuncts</strong></a> - <em>business </em>partner, <em>strawberry </em>lemonade, etc. Attributive nouns act like attributive adjectives, but not predicative ones; you can't say <em>the lemonade is strawberry</em>, for example. Don't confuse attributive nouns with <a target="_blank" href="http://en.wikipedia.org/wiki/English_compound#Compound_nouns" title="Wikipedia - English Compound - Compound Nouns">compound nouns</a>; the attributive noun is the noun acting as an adjective (<em>strawberry</em>), and the compound noun is the combination of the two nouns (<em>strawberry lemonade</em>).</li>
@@ -72,10 +70,10 @@ Simply put, adverbs describe everything except nouns. They have many different u
 	<li><strong>Indefinite Adverbs</strong> - <em>anywhere</em>, <em>sometime</em>, <em>somehow</em>, etc.</li>
 </ul>
 <ul>
-	<li><a target="_blank" href="http://www.edufind.com/english/grammar/ADVERBS11.cfm"><strong>Relative Adverbs</strong></a> - <em>where</em>, <em>when</em>, and <em>why</em>. These introduce <a href="http://learningnerd.wordpress.com/2006/09/08/english-grammar-types-of-clauses/" title="Types of Clauses">relative clauses</a>. Note: some consider relative adverbs the same as interrogative adverbs.</li>
+	<li><a target="_blank" href="http://www.edufind.com/english/grammar/ADVERBS11.cfm"><strong>Relative Adverbs</strong></a> - <em>where</em>, <em>when</em>, and <em>why</em>. These introduce <a href="http://learningnerd.com/2006/09/08/english-grammar-types-of-clauses/" title="Types of Clauses">relative clauses</a>. Note: some consider relative adverbs the same as interrogative adverbs.</li>
 </ul>
 <ul>
-	<li><strong><a name="adverbials" title="adverbials"></a>Adverbials</strong> - Adverbials include adverbs, <a href="http://learningnerd.wordpress.com/2006/09/06/english-grammar-types-of-phrases/" title="Types of Phrases">adverbial phrases</a>, and <a href="http://learningnerd.wordpress.com/2006/09/08/english-grammar-types-of-clauses/" title="Types of Clauses">adverbial clauses</a> -- any group of words functioning as an adverb within a sentence. The three types of adverbials are:
+	<li><strong><a name="adverbials" title="adverbials"></a>Adverbials</strong> - Adverbials include adverbs, <a href="http://learningnerd.com/2006/09/06/english-grammar-types-of-phrases/" title="Types of Phrases">adverbial phrases</a>, and <a href="http://learningnerd.com/2006/09/08/english-grammar-types-of-clauses/" title="Types of Clauses">adverbial clauses</a> -- any group of words functioning as an adverb within a sentence. The three types of adverbials are:
 <ul>
 	<li><a target="_blank" href="http://en.wikipedia.org/wiki/Adjunct"><strong>Adjuncts</strong></a> - <em>early this morning</em>, <em>once upon a time</em>, <em>every other Friday</em>, etc.</li>
 	<li><a target="_blank" href="http://en.wikipedia.org/wiki/Conjunct"><strong>Conjuncts</strong></a><strong> or </strong><a target="_blank" href="http://grammar.uoregon.edu/conjunctions/conjunctive.html"><strong>Conjunctive Adverbs</strong></a> - <em>therefore</em>, <em>however</em>, <em>thus</em>, etc.</li>

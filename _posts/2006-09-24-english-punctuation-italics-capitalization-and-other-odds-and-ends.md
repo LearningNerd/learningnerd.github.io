@@ -1,13 +1,11 @@
 ---
-layout: post
-title: English Punctuation: Italics, Capitalization, and Other Odds and Ends
+layout: article
+title: "English Punctuation: Italics, Capitalization, and Other Odds and Ends"
 date: 2006-09-24 09:36
-author: learningnerd
-comments: true
-categories: [English, Language, Punctuation]
+categories: [English]
 permalink: /2006/09/24/english-punctuation-italics-capitalization-and-other-odds-and-ends/
 ---
-<em>Series index: </em><a href="http://learningnerd.wordpress.com/2006/09/14/english-punctuation-overview/"><em>English Punctuation Overview</em></a><em>.</em>
+<em>Series index: </em><a href="http://learningnerd.com/2006/09/14/english-punctuation-overview/"><em>English Punctuation Overview</em></a><em>.</em>
 <p class="MsoNormal">&nbsp;</p>
 These miscellaneous aspects of writing aren't technically considered punctuation, but most websites include them with punctuation marks (probably because they don't know where else to put them). This post covers the following: italics, underlining, boldface, capitalization, accent marks, numbers, and other symbols (like the ampersand and the interrobang).
 <h2>Italics, Underlining, and Boldface</h2>
@@ -28,7 +26,7 @@ Both italics and underlining are used to emphasize titles and other words, but i
 	<li><a target="_blank" href="http://www.cogs.susx.ac.uk/doc/punctuation/node36.html">Boldface</a> - covers the main uses of boldface.</li>
 </ul>
 <h2>Capitalization</h2>
-Capital letters are used to distinguish proper <a href="http://learningnerd.wordpress.com/2006/08/29/english-parts-of-speech-nouns-and-pronouns/" title="Nouns and Pronouns">nouns</a>, to emphasize the beginning of a new sentence, and in some other situations.
+Capital letters are used to distinguish proper <a href="http://learningnerd.com/2006/08/29/english-parts-of-speech-nouns-and-pronouns/" title="Nouns and Pronouns">nouns</a>, to emphasize the beginning of a new sentence, and in some other situations.
 <ul>
 	<li><a target="_blank" href="http://www.grammarbook.com/punctuation/capital.asp">The Blue Book of Grammar and Punctuation</a> - a list of 14 capitalization rules.</li>
 </ul>
@@ -71,6 +69,6 @@ English has a number of conventions governing how numbers should be used in wri
 	<li><a target="_blank" href="http://www.writers.com/tips_punctuation.html#&amp;">Punctuation Pointers</a> - a short note on using the ampersand (&amp;).</li>
 </ul>
 <ul>
-	<li><a target="_blank" href="http://en.wikipedia.org/wiki/Interrobang">Interrobang - Wikipedia</a> - all about this new, rarely used punctuation mark created to combine the <a href="http://learningnerd.wordpress.com/2006/09/18/english-punctuation-periods-question-marks-and-exclamation-marks/" title="Periods, Question Marks, and Exclamation Marks">question mark and exclamation mark</a> (for sentences ending in "?!").</li>
+	<li><a target="_blank" href="http://en.wikipedia.org/wiki/Interrobang">Interrobang - Wikipedia</a> - all about this new, rarely used punctuation mark created to combine the <a href="http://learningnerd.com/2006/09/18/english-punctuation-periods-question-marks-and-exclamation-marks/" title="Periods, Question Marks, and Exclamation Marks">question mark and exclamation mark</a> (for sentences ending in "?!").</li>
 </ul>
 For more about other miscellaneous symbols, look them up on <a target="_blank" href="http://en.wikipedia.org/wiki/Main_Page">Wikipedia</a> (also see the list of symbols in the box on the right side of the <a target="_blank" href="http://en.wikipedia.org/wiki/Punctuation">Punctuation</a> page).

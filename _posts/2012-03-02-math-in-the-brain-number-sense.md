@@ -1,27 +1,24 @@
 ---
-layout: post
-title: Math in the Brain: Number Sense
+layout: article
+title: "Math in the Brain: Number Sense"
 date: 2012-03-02 02:18
-author: lizkrane
-comments: true
-categories: [Videos]
+category: Featured
 ---
 <p>Today I learned about number sense, the magical thing built into our brains that gives us our intuitive numerical abilities. I also took a number sense test at <a href="http://panamath.org/">Panamath.org</a>. I'm really curious to know if anyone else got an unexpected result...</p>
-<p style="margin-bottom:0;"><a href="http://www.learningnerd.com/math-in-the-brain-number-sense/#article">Transcript</a> | <a href="http://www.learningnerd.com/math-in-the-brain-number-sense/#references">References</a> | <a href="http://www.learningnerd.com/math-in-the-brain-number-sense/#credits">Media Credits</a> | <a href="http://www.learningnerd.com/math-in-the-brain-number-sense/#comments">Comments</a></p>
-</div><div id="video"><iframe width="640" height="360" src="http://www.youtube.com/embed/PZ1mmVy5wTs?showinfo=0&rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe></div></div>
-<div id="primary">
-<div id="content" role="main">
-<article>
-<div class="entry-content">
-<div id="article">
 
+<p><a href="http://learningnerd.com/math-in-the-brain-number-sense/#article">Transcript</a> | <a href="http://learningnerd.com/math-in-the-brain-number-sense/#references">References</a> | <a href="http://learningnerd.com/math-in-the-brain-number-sense/#credits">Media Credits</a></p>
 
-<div class="pull alignleft">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/PZ1mmVy5wTs?controls=0" frameborder="0" allowfullscreen></iframe>
+
 <h2>Featured Books</h2>
-<p><a href="http://www.amazon.com/gp/product/0452288118/ref=as_li_ss_il?ie=UTF8&tag=learni084-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0452288118"><img class="alignleft" border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&Format=_SL110_&ASIN=0452288118&MarketPlace=US&ID=AsinImage&WS=1&tag=learni084-20&ServiceVersion=20070822" width=50 height=78 style="margin-left:-20px;margin-right:5px;"></a><a href="http://www.amazon.com/gp/product/0452288118/ref=as_li_ss_tl?ie=UTF8&tag=learni084-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0452288118">Number: The Language of Science</a><img src="http://www.assoc-amazon.com/e/ir?t=learni084-20&l=as2&o=1&a=0452288118" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> by Tobias Dantzig</p>
 
-<p style="clear:left;"><a href="http://www.amazon.com/gp/product/0684854171/ref=as_li_ss_il?ie=UTF8&tag=learni084-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0684854171"><img class="alignleft" border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&Format=_SL110_&ASIN=0684854171&MarketPlace=US&ID=AsinImage&WS=1&tag=learni084-20&ServiceVersion=20070822" width=50 height=78 style="margin-left:-20px;margin-right:5px;"></a><a href="http://www.amazon.com/gp/product/0684854171/ref=as_li_ss_tl?ie=UTF8&tag=learni084-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0684854171">What Counts: How Every Brain is Hardwired for Math</a><img src="http://www.assoc-amazon.com/e/ir?t=learni084-20&l=as2&o=1&a=0684854171" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> by Brian Butterworth</p>
+<p style="float:left; padding: 0 20px; margin-top: 0px;"><a rel="nofollow" href="http://www.amazon.com/gp/product/0452288118/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0452288118&linkCode=as2&tag=learni084-20&linkId=PU4D3XSKJU5A3DV6"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0452288118&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=learni084-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=learni084-20&l=as2&o=1&a=0452288118" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
 
+<p style="float:left; padding: 0 20px; margin-top: 0px;"><a rel="nofollow" href="http://www.amazon.com/gp/product/0684854171/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0684854171&linkCode=as2&tag=learni084-20&linkId=WU4PPI4MPQILVDEI"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0684854171&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=learni084-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=learni084-20&l=as2&o=1&a=0684854171" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+
+<p style="clear:both;"><a rel="nofollow" href="http://www.amazon.com/gp/product/0452288118/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0452288118&linkCode=as2&tag=learni084-20&linkId=PU4D3XSKJU5A3DV6">Number: The Language of Science</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=learni084-20&l=as2&o=1&a=0452288118" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+
+<p><a rel="nofollow" href="http://www.amazon.com/gp/product/0684854171/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0684854171&linkCode=as2&tag=learni084-20&linkId=WU4PPI4MPQILVDEI">What Counts: How Every Brain is Hardwired for Math</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=learni084-20&l=as2&o=1&a=0684854171" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <h2>Learn More</h2>
 <ul>
 <li><a href="http://panamath.org/">Panamath.org</a> - Test your number sense</li>
@@ -29,7 +26,6 @@ categories: [Videos]
 <li>Watch the rest of the documentary <a href="http://www.bbc.co.uk/programmes/b00qzlbv">What Makes a Genius?</a> (also on <a href="http://www.youtube.com/watch?v=EjDf3-Et-4o&t=11m21s">YouTube</a>)
 </li>
 </ul>
-</div>
 
 <h2 class="transcript">Transcript</h2>
 <p>
@@ -64,10 +60,8 @@ Bertrand Russell, a famous philosopher, mathematician, historian, logician, and 
 <blockquote><p>“It answers the question of how numerosity emerges without teaching anything about numbers in the first place.” — Marco Zorzi, quote from <a href="http://www.newscientist.com/article/mg21328484.200-neural-network-gets-an-idea-of-number-without-counting.html">Neural network gets an idea of number without counting</a> by Celeste Biever, <em>New Scientist</em></p></blockquote>
 
 <p>So if an artificial neural network can teach itself to estimate the number of objects, regardless of size or color or stuff like that, then clearly abstraction thinking isn't that difficult after all, and it <em>doesn't</em> take ages to discover that a brace of pheasants and a couple of days are both instances of the number two. Sorry, Bertrand Russell. Despite your sexy mustache, I guess you were wrong. That's OK, though. I forgive you.</p>
-</div>
 
-<div id="references">
-<h2>References</h2>
+<h2 id="references">References</h2>
 <ul>
 <li><a href="http://books.google.com/books?id=jF1j0y2-hM0C&lpg=PP1&pg=PA3=onepage&q&f=false">Introduction to Mathematical Philosophy</a> by Bertrand Russell</li>
 
@@ -87,10 +81,8 @@ Bertrand Russell, a famous philosopher, mathematician, historian, logician, and 
 
 <li>Zorzi, M. & Stoianov, I. (2012). Emergence of a 'visual number sense' in hierarchical generative models. Nature Neuroscience, 15, 194-196. <a href="http://www.nature.com/neuro/journal/v15/n2/full/nn.2996.html">http://www.nature.com/neuro/journal/v15/n2/full/nn.2996.html</a></li>
 </ul>
-</div>
 
-<div id="credits">
-<h2>Media Credits</h2>
+<h2 id="credits">Media Credits</h2>
 
 <ul>
 <li><a href="http://www.flickr.com/photos/41894170584@N01/1198320011/">"Gallon of marbles"</a> by Rex Hammock</li>
@@ -122,4 +114,3 @@ Bertrand Russell, a famous philosopher, mathematician, historian, logician, and 
 <li><a href="http://en.wikipedia.org/wiki/File:Lobes_of_the_brain_NL.svg">Principal fissures and lobes of the cerebrum viewed laterally</a>. Figure 728 from <a href="http://www.bartleby.com/107/">Anatomy of the Human Body</a> by Henry Grey (1918)</li>
 <li><a href="http://commons.wikimedia.org/wiki/File:Gray726_intraparietal_sulcus.svg">Lateral surface of left cerebral hemisphere</a>. Figure 726 from from <a href="http://www.bartleby.com/107/">Anatomy of the Human Body</a> by Henry Grey (1918)</li>
 </ul>
-</div>

@@ -1,10 +1,8 @@
 ---
-layout: post
-title: Improve Your Spelling
+layout: article
+title: "Improve Your Spelling"
 date: 2006-08-23 09:18
-author: learningnerd
-comments: true
-categories: [English, Language, Words]
+categories: [English]
 permalink: /2006/08/23/improve-your-spelling/
 ---
 Never take your spell checker for granted. I usually have no trouble with spelling, but I've noticed my skills gradually deteriorating. Well, I’ve misspelled one too many times; I need to take action!
@@ -70,7 +68,7 @@ With so many exceptions and so few rules, English complicates even the simplest
 	<li><a target="_blank" href="http://en.wikipedia.org/wiki/List_of_homophones">List of Homophones on Wikipedia</a> - extensive list organized by sound.</li>
 </ul>
 <h2>Spelling Practice</h2>
-Keep a list of your own commonly misspelled words. (See <a href="http://learningnerd.wordpress.com/2006/08/25/learningnerds-commonly-misspelled-words/" title="LearningNerd's Commonly Misspelled Words">my list</a>.) For tips to remember the correct spelling, see <a href="http://learningnerd.wordpress.com/2006/08/19/improve-your-vocabulary/#remember">Improve Your Vocabulary - Remember New Words</a>.
+Keep a list of your own commonly misspelled words. (See <a href="http://learningnerd.com/2006/08/25/learningnerds-commonly-misspelled-words/" title="LearningNerd's Commonly Misspelled Words">my list</a>.) For tips to remember the correct spelling, see <a href="http://learningnerd.com/2006/08/19/improve-your-vocabulary/#remember">Improve Your Vocabulary - Remember New Words</a>.
 <h3>Spelling Quizzes</h3>
 <ul>
 	<li><a target="_blank" href="http://grammar.ccc.commnet.edu/grammar/spelling.htm">Some Rules and Suggestions About Spelling</a> - several spelling quizzes at the bottom of the page.</li>
@@ -103,4 +101,4 @@ Keep a list of your own commonly misspelled words. (See <a href="http://learning
 <h2>Etymology</h2>
 Studying a word’s origins will also help you remember its spelling. This article lists many, many examples: <a target="_blank" href="http://www.spellingbee.com/snapshot.shtml">Sounds and Spelling in English Words: Some Correspondences with Language of Origin</a>.
 
-For more etymology links (dictionaries, articles, podcasts, and quizzes), see my post on <a href="http://learningnerd.wordpress.com/2006/08/27/english-etymology/">English Etymology Resources</a>.
+For more etymology links (dictionaries, articles, podcasts, and quizzes), see my post on <a href="http://learningnerd.com/2006/08/27/english-etymology/">English Etymology Resources</a>.

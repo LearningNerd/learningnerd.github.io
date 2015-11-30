@@ -1,13 +1,11 @@
 ---
-layout: post
-title: English Punctuation: Dashes, Parentheses, Quotation Marks, and Ellipses
+layout: article
+title: "English Punctuation: Dashes, Parentheses, Quotation Marks, and Ellipses"
 date: 2006-09-22 11:15
-author: learningnerd
-comments: true
-categories: [English, Language, Punctuation]
+categories: [English]
 permalink: /2006/09/22/english-punctuation-dashes-parentheses-quotation-marks-and-ellipses/
 ---
-<em>Series index: </em><a href="http://learningnerd.wordpress.com/2006/09/14/english-punctuation-overview/"><em>English Punctuation Overview.</em></a>
+<em>Series index: </em><a href="http://learningnerd.com/2006/09/14/english-punctuation-overview/"><em>English Punctuation Overview.</em></a>
 
 <p class="MsoNormal">&nbsp;</p>
 <h2>Dashes</h2>

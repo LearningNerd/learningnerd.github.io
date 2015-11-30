@@ -1,20 +1,14 @@
 ---
-layout: post
-title: Series Introduction: The Fundamental Concepts of Arithmetic
+layout: article
+title: "Series Introduction: The Fundamental Concepts of Arithmetic"
 date: 2012-02-22 17:26
-author: lizkrane
-comments: true
-categories: [Videos]
+category: Featured
 ---
 <p>A short look at my personal experiences with math, why I'm starting with arithmetic, and a glimpse of what this series will cover.</p>
-<p style="margin-bottom:0;"><a href="http://www.learningnerd.com/arithmetic-intro/#article">Transcript</a> | <a href="http://www.learningnerd.com/arithmetic-intro/#credits">Media Credits</a> | <a href="http://www.learningnerd.com/arithmetic-intro/#comments">Comments</a></p>
-</div><div id="video"><iframe width="640" height="360" src="http://www.youtube.com/embed/IPY6cbQhcLU?showinfo=0&rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe></div></div>
-<div id="primary">
-<div id="content" role="main">
-<article>
-<div class="entry-content">
-<div id="article">
 
+<p><a href="http://learningnerd.com/arithmetic-intro/#article">Transcript</a> | <a href="http://learningnerd.com/arithmetic-intro/#credits">Media Credits</a></p>
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/IPY6cbQhcLU?controls=0" frameborder="0" allowfullscreen></iframe>
 
 <h2 class="transcript">Transcript</h2>
 <p>Today, I start learning everything. And I'm going to start  with arithmetic, cause, like I said, I'm starting at the very beginning. What I want to do is just start over again and learn math at my own pace, taking time to stop and smell the mathematical roses. And this time, I want to have fun with it! I want to explore and play and see if I can <em>enjoy</em> math for a change. You know, like <a href="http://vihart.com/">Vi Hart</a> does it? Oh, I could marry that girl.</p>
@@ -32,10 +26,8 @@ categories: [Videos]
 <p>Of course, you don't have to be good at arithmetic to do more advanced math. For example, when I took calculus, I had no problem with the calculus part. Limits and derivatives, piece of cake! But when it came down to simple arithmetic... I had a lot of, um,  brain farts, let's call them. Oopsies. I was so slow, I didn't even finish my first college calculus exams, and, um, yeah... That didn't work out too well. But at least I know enough math to know that 55% is a failing grade.</p>
 
 <p>I would love to work my way back up to calculus again, but I want to make sure I do it by understanding <em>why</em> everything works rather than just memorizing <em>how</em> it works. So I have my work cut out for me. But I hope you join me, and learn math with me, and send me all your questions about arithmetic and math in general and I'll see if I can find the answers. There's a good chance they might be right behind me.</p>
-</div>
 
-<div id="credits">
-<h2>Media Credits</h2>
+<h2 id="credits">Media Credits</h2>
 
 <ul>
 <li><a href="http://musopen.org/music/piece/69">Flute Concerto in G Major, K. 212</a> by Wolfgang Amadeus Mozart, from <a href="http://musopen.org/">Musopen.org</a></li>
@@ -46,4 +38,3 @@ categories: [Videos]
 
 <li><a href="http://www.freesound.org/people/sapht/sounds/61234/">Video game sound effect</a> by Daniel Hjerth (sapht on <a href="http://www.freesound.org/">FreeSound.org</a>)</li>
 </ul>
-</div>

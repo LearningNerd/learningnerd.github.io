@@ -1,24 +1,22 @@
 ---
-layout: post
-title: English Grammar: Types of Sentences
+layout: article
+title: "English Grammar: Types of Sentences"
 date: 2006-09-12 09:20
-author: learningnerd
-comments: true
-categories: [English, Grammar, Language]
+categories: [English]
 permalink: /2006/09/12/english-grammar-types-of-sentences/
 ---
-<em>Got grammar? See </em><a href="http://learningnerd.wordpress.com/2006/09/26/everything-you-need-to-improve-your-english-grammar/"><em>Everything You Need to Improve Your English Grammar</em></a><em>.</em>
-<p class="MsoNormal">&nbsp;</p>
-Sentences are categorized in two ways: by structure and by purpose.
+<em>Got grammar? See </em><a href="http://learningnerd.com/2006/09/26/everything-you-need-to-improve-your-english-grammar/"><em>Everything You Need to Improve Your English Grammar</em></a><em>.</em>
+
+<p>Sentences are categorized in two ways: by structure and by purpose.</p>
 <h2>Types of Sentences by Structure</h2>
 <ul>
-	<li><a target="_blank" href="http://en.wikipedia.org/wiki/Simple_sentence"><strong>Simple Sentence</strong></a> - "<u>I love chocolate</u>." One <a href="http://learningnerd.wordpress.com/2006/09/08/english-grammar-types-of-clauses/" title="Types of Clauses">independent clause</a> (underlined).</li>
+	<li><a target="_blank" href="http://en.wikipedia.org/wiki/Simple_sentence"><strong>Simple Sentence</strong></a> - "<u>I love chocolate</u>." One <a href="http://learningnerd.com/2006/09/08/english-grammar-types-of-clauses/" title="Types of Clauses">independent clause</a> (underlined).</li>
 </ul>
 <ul>
 	<li><a target="_blank" href="http://en.wikipedia.org/wiki/Compound_sentence_%28linguistics%29"><strong>Compound Sentence</strong></a> - "<u>I love chocolate</u>, and <u>I love eating chocolate</u>." Two or more independent clauses.</li>
 </ul>
 <ul>
-	<li><a target="_blank" href="http://en.wikipedia.org/wiki/Complex_sentence"><strong>Complex Sentence</strong></a> - "<u>I love chocolate</u> <em>because it's decadent</em>." One independent clause and one or more <a href="http://learningnerd.wordpress.com/2006/09/08/english-grammar-types-of-clauses/" title="Types of Clauses">dependent clauses</a> (italicized). Note: according to Wikipedia, a sentence like "The dog chewed up the shoes that I just bought" is a simple sentence, not a complex sentence, because the <a href="http://learningnerd.wordpress.com/2006/09/08/english-grammar-types-of-clauses/" title="Types of Clauses">relative clause</a> "<em>that I just bought</em>" simply modifies the noun without performing any other function. I'm not sure how accurate this is, however.</li>
+	<li><a target="_blank" href="http://en.wikipedia.org/wiki/Complex_sentence"><strong>Complex Sentence</strong></a> - "<u>I love chocolate</u> <em>because it's decadent</em>." One independent clause and one or more <a href="http://learningnerd.com/2006/09/08/english-grammar-types-of-clauses/" title="Types of Clauses">dependent clauses</a> (italicized). Note: according to Wikipedia, a sentence like "The dog chewed up the shoes that I just bought" is a simple sentence, not a complex sentence, because the <a href="http://learningnerd.com/2006/09/08/english-grammar-types-of-clauses/" title="Types of Clauses">relative clause</a> "<em>that I just bought</em>" simply modifies the noun without performing any other function. I'm not sure how accurate this is, however.</li>
 </ul>
 <ul>
 	<li><a target="_blank" href="http://en.wikipedia.org/wiki/Complex-compound_sentence"><strong>Complex-Compound Sentence</strong></a> - "<u>I love chocolate</u> <em>because it's decadent</em>, and <u>I love eating chocolate</u> <em>because it's delicious</em>." Two or more independent clauses and one or more dependent clauses.</li>

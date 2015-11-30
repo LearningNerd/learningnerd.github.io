@@ -1,13 +1,11 @@
 ---
-layout: post
-title: English Punctuation: Hyphens, Apostrophes, and Slashes
+layout: article
+title: "English Punctuation: Hyphens, Apostrophes, and Slashes"
 date: 2006-09-16 11:09
-author: learningnerd
-comments: true
-categories: [English, Language, Punctuation]
+categories: [English]
 permalink: /2006/09/16/english-punctuation-hyphens-apostrophes-and-slashes/
 ---
-<em>Series index: </em><a href="http://learningnerd.wordpress.com/2006/09/14/english-punctuation-overview/"><em>English Punctuation Overview</em></a><em>.</em>
+<em>Series index: </em><a href="http://learningnerd.com/2006/09/14/english-punctuation-overview/"><em>English Punctuation Overview</em></a><em>.</em>
 <p class="MsoNormal">&nbsp;</p>
 Word-level punctuation marks clarify the meaning of words themselves. You'd think they'd be simpler than sentence-level punctuation, but even these small details cause controversy and confusion.
 <h2>Hyphens</h2>

@@ -1,10 +1,8 @@
 ---
-layout: post
-title: Everything You Need to Improve Your English Grammar
+layout: article
+title: "Everything You Need to Improve Your English Grammar"
 date: 2006-09-26 10:27
-author: learningnerd
-comments: true
-categories: [English, Grammar, Language]
+categories: [English]
 permalink: /2006/09/26/everything-you-need-to-improve-your-english-grammar/
 ---
 Good grammar helps with almost every job and every endeavor. <a target="_blank" href="http://www.washingtontimes.com/op-ed/20041215-085728-5559r.htm">Why the Bad Grammar?</a>, an interesting article in <em>The Washington Times</em>, points out that grammatical errors have become more common, even in published work. So give yourself a pat on the back for wanting to improve; with all the bad writers out there, you'll stand out even more!
@@ -13,24 +11,24 @@ Note: this guide is aimed at native English speakers and advanced ESL learners.
 <h2>Step 1: Know the Rules</h2>
 I wrote a number of posts reviewing the basics of English grammar. Here they are in order:
 <ul>
-	<li><a href="http://learningnerd.wordpress.com/2006/08/28/english-parts-of-speech-overview/">English Parts of Speech Overview</a></li>
+	<li><a href="http://learningnerd.com/2006/08/28/english-parts-of-speech-overview/">English Parts of Speech Overview</a></li>
 </ul>
 <ul>
-	<li><a href="http://learningnerd.wordpress.com/2006/09/06/english-grammar-types-of-phrases/">English Grammar: Types of Phrases</a></li>
+	<li><a href="http://learningnerd.com/2006/09/06/english-grammar-types-of-phrases/">English Grammar: Types of Phrases</a></li>
 </ul>
 <ul>
-	<li><a href="http://learningnerd.wordpress.com/2006/09/08/english-grammar-types-of-clauses/">English Grammar: Types of Clauses</a></li>
+	<li><a href="http://learningnerd.com/2006/09/08/english-grammar-types-of-clauses/">English Grammar: Types of Clauses</a></li>
 </ul>
 <ul>
-	<li><a href="http://learningnerd.wordpress.com/2006/09/10/english-grammar-basic-sentence-elements/">English Grammar: Basic Sentence Elements</a></li>
+	<li><a href="http://learningnerd.com/2006/09/10/english-grammar-basic-sentence-elements/">English Grammar: Basic Sentence Elements</a></li>
 </ul>
 <ul>
-	<li><a href="http://learningnerd.wordpress.com/2006/09/12/english-grammar-types-of-sentences/">English Grammar: Types of Sentences</a></li>
+	<li><a href="http://learningnerd.com/2006/09/12/english-grammar-types-of-sentences/">English Grammar: Types of Sentences</a></li>
 </ul>
 <ul>
-	<li><a href="http://learningnerd.wordpress.com/2006/09/14/english-punctuation-overview/">English Punctuation Overivew</a></li>
+	<li><a href="http://learningnerd.com/2006/09/14/english-punctuation-overview/">English Punctuation Overivew</a></li>
 </ul>
-You might also like to see the <a href="http://learningnerd.wordpress.com/language/english/#words">words category</a> for more useful posts like <a href="http://learningnerd.wordpress.com/2006/08/19/improve-your-vocabulary/">Improve Your Vocabulary</a>.
+You might also like to see the <a href="http://learningnerd.com/language/english/#words">words category</a> for more useful posts like <a href="http://learningnerd.com/2006/08/19/improve-your-vocabulary/">Improve Your Vocabulary</a>.
 <h3>Online Style Manuals</h3>
 I can't cover every minor detail of the English language. So, here's a list of free references:
 <ul>
@@ -114,7 +112,7 @@ The rules of grammar are fairly simple, but you need practice and patience to ge
 
 <strong>Read consciously.</strong> Read (a lot!) and pay attention to how others use grammar. Read online articles, blogs, challenging books, magazines -- anything with words.
 
-<strong>Write.</strong> This is why you're improving your grammar in the first place: to communicate better! So, <a href="http://learningnerd.wordpress.com/2006/09/30/how-to-write-more-often/" title="How to Write More Often">write more often</a> and your grammar will surely improve over time.
+<strong>Write.</strong> This is why you're improving your grammar in the first place: to communicate better! So, <a href="http://learningnerd.com/2006/09/30/how-to-write-more-often/" title="How to Write More Often">write more often</a> and your grammar will surely improve over time.
 
 <strong>Diagram sentences.</strong> Many grammarians believe that <a target="_blank" href="http://en.wikipedia.org/wiki/Sentence_diagram" title="Wikipedia - Sentence Diagram">sentence diagramming</a> helps students better understand the structure of a sentence. I've never really studied this, but I found these examples interesting to glance at:
 <ul>

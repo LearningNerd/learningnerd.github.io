@@ -1,11 +1,9 @@
 ---
-layout: post
-title: Improve Your Vocabulary
+layout: article
+title: "Improve Your Vocabulary"
 date: 2006-08-19 09:22
-author: learningnerd
-comments: true
-categories: [English, Language, Words]
-permalink:/2006/08/19/improve-your-vocabulary/
+categories: [English]
+permalink: /2006/08/19/improve-your-vocabulary/
 ---
 A good vocabulary is, for lack of a better word, good to have. I’d like to think I have a decent vocabulary, but I’m often unable to find the word I’m looking for. Sure, I’ve seen lots of words – I’ve probably even looked up their definitions – but I hardly ever remember them. So, starting now, I’m going to gradually incorporate more words into my daily usage.
 
@@ -15,7 +13,7 @@ Let's begin with an instructional video:
 
 Vocabulary is timeless! For more about the video, see the <a target="_blank" href="http://www.archive.org/details/BuildYou1948" title="Build Your Vocabulary (1948) by Coronet Instructional Films">Internet Archive</a>.
 <h2>Step 1: Find New Words</h2>
-Read, read, read! Like the video suggests, search consciously for new words and keep a list of them. (See <a href="https://learningnerd.wordpress.com/2006/08/21/learningnerds-list-of-words/" title="LearningNerd's List of Words">my list</a>.) Now, here are some links they would’ve loved to bookmark in 1948:
+Read, read, read! Like the video suggests, search consciously for new words and keep a list of them. (See <a href="http://learningnerd.com/2006/08/21/learningnerds-list-of-words/" title="LearningNerd's List of Words">my list</a>.) Now, here are some links they would’ve loved to bookmark in 1948:
 <h3>Thesauri</h3>
 I learn new words every time I write, because I’m always alt-tabbing between my document and a thesaurus.
 <ul>
@@ -109,7 +107,7 @@ While you’re reading a challenging article online, paste the URL into <a targe
 
 <a target="_blank" href="http://www.onelook.com">OneLook Dictionary Search</a> indexes over 900 dictionaries on every subject imaginable -- it even has a "reverse dictionary", letting you find a word by searching for its definition. Now, if you're looking to hear a word's pronunciation, look it up on <a target="_blank" href="http://www.m-w.com">Merriam-Webster</a> or <a target="_blank" href="http://www.thefreedictionary.com">TheFreeDictionary.com</a>.
 
-For spelling tips, lists, and quizzes, see my <a href="http://learningnerd.wordpress.com/2006/08/23/improve-your-spelling/">Improve Your Spelling</a> post.
+For spelling tips, lists, and quizzes, see my <a href="http://learningnerd.com/2006/08/23/improve-your-spelling/">Improve Your Spelling</a> post.
 <h4><a name="podcasts" title="podcasts"></a>Vocabulary Podcasts</h4>
 <ul>
 	<li><a target="_blank" href="http://www.justvocabulary.com">Just Vocabulary</a> - teaches 2 words a day (made for ESL learners).</li>
@@ -144,7 +142,7 @@ If you want to develop a superior command of the language, you’ll need to unde
 
 <a target="_blank" href="http://www.celebrityenglish.com/vocab/">Celebrity English</a> is a fun way to get started. I don’t usually think of Hollywood when I think of improving my vocabulary, but this blog uses celebrity news to teach new words. Now, if you want to find more usage examples for a specific word, look it up on <a target="_blank" href="http://news.google.com">Google News</a> or even <a target="_blank" href="http://blogsearch.google.com">Google Blog Search</a>; just browse through the search results (without even clicking any links) and you'll get a better feel for how and when to use the word.
 
-For links about word origins and history (including etymology podcasts, web columns, and more), see <a href="http://learningnerd.wordpress.com/2006/08/27/english-etymology/">English Etymology Resources</a>. You can also learn about the historical and cultural significance of some words by looking them up on an encyclopedia like <a target="_blank" href="http://en.wikipedia.org">Wikipedia</a>. For example, I never knew that <a target="_blank" href="http://en.wikipedia.org/wiki/Defenestration">defenestration</a>, one of my favorite words, "has become popular as a term for switching from MS Windows to Linux or another operating system."
+For links about word origins and history (including etymology podcasts, web columns, and more), see <a href="http://learningnerd.com/2006/08/27/english-etymology/">English Etymology Resources</a>. You can also learn about the historical and cultural significance of some words by looking them up on an encyclopedia like <a target="_blank" href="http://en.wikipedia.org">Wikipedia</a>. For example, I never knew that <a target="_blank" href="http://en.wikipedia.org/wiki/Defenestration">defenestration</a>, one of my favorite words, "has become popular as a term for switching from MS Windows to Linux or another operating system."
 <h2><a name="remember" title="remember"></a>Step 3: Remember New Words</h2>
 Alright, you now know the meaning of every word in the English language. Now you just need to remember everything. For best results, use a combination of the following methods:
 <ul>

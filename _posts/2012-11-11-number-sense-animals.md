@@ -1,26 +1,27 @@
 ---
-layout: post
-title: Number Sense in Animals
+layout: article
+title: "Number Sense in Animals"
 date: 2012-11-11 19:15
-author: lizkrane
-comments: true
-categories: [Videos]
+category: Featured
 ---
 <p>From horses that do math (not really) to ants that count, here's a compilation of some of my favorite research on the numerical abilities of animals.</p>
-<p style="margin-bottom:0;"><a href="http://www.learningnerd.com/number-sense-animals/#article">Transcript</a> | <a http://www.learningnerd.com/number-sense-animals/#references">References</a> | <a href="http://www.learningnerd.com/number-sense-animals/#credits">Media Credits</a> | <a href="http://www.learningnerd.com/number-sense-animals/#comments">Comments</a></p>
-</div><div id="video"><iframe width="640" height="360" src="http://www.youtube.com/embed/cAWaCtxH4ac?showinfo=0&rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe></div></div>
-<div id="primary">
-<div id="content" role="main">
-<article>
-<div class="entry-content">
-<div id="article">
 
-<div class="pull alignleft">
+<p><a href="http://learningnerd.com/number-sense-animals/#article">Transcript</a> | <a href="http://learningnerd.com/number-sense-animals/#references">References</a> | <a href="http://learningnerd.com/number-sense-animals/#credits">Media Credits</a></p>
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/cAWaCtxH4ac?controls=0" frameborder="0" allowfullscreen></iframe>
+
 <h2>Recommended Books</h2>
-<p style="clear:left;">
-<a href="http://www.amazon.com/gp/product/0195132408/ref=as_li_ss_il?ie=UTF8&tag=learni084-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0195132408"><img class="alignleft" border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&Format=_SL110_&ASIN=0195132408&MarketPlace=US&ID=AsinImage&WS=1&tag=learni084-20&ServiceVersion=20070822" width=50 height=78 style="margin-left:-20px;margin-right:5px;"></a><a href="http://www.amazon.com/gp/product/0195132408/ref=as_li_ss_tl?ie=UTF8&tag=learni084-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0195132408">The Number Sense: How the Mind Creates Mathematics</a><img src="http://www.assoc-amazon.com/e/ir?t=learni084-20&l=as2&o=1&a=0195132408" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
 
-<p style="clear:left;"><a href="http://www.amazon.com/gp/product/0684854171/ref=as_li_ss_il?ie=UTF8&tag=learni084-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0684854171"><img class="alignleft" border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&Format=_SL110_&ASIN=0684854171&MarketPlace=US&ID=AsinImage&WS=1&tag=learni084-20&ServiceVersion=20070822" width=50 height=78 style="margin-left:-20px;margin-right:5px;"></a><a href="http://www.amazon.com/gp/product/0684854171/ref=as_li_ss_tl?ie=UTF8&tag=learni084-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0684854171">What Counts: How Every Brain is Hardwired for Math</a><img src="http://www.assoc-amazon.com/e/ir?t=learni084-20&l=as2&o=1&a=0684854171" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+<p style="float:left; padding: 0 20px; margin-top: 0px;"><a rel="nofollow" href="http://www.amazon.com/gp/product/0195132408/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0195132408&linkCode=as2&tag=learni084-20&linkId=WZBERYXZDOJQWFRB"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0195132408&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=learni084-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=learni084-20&l=as2&o=1&a=0195132408" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+
+<p style="float:left; padding: 0 20px; margin-top: 0px;"><a rel="nofollow" href="http://www.amazon.com/gp/product/0684854171/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0684854171&linkCode=as2&tag=learni084-20&linkId=WU4PPI4MPQILVDEI"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0684854171&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=learni084-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=learni084-20&l=as2&o=1&a=0684854171" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+
+<p style="clear:both;">
+<a rel="nofollow" href="http://www.amazon.com/gp/product/0195132408/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0195132408&linkCode=as2&tag=learni084-20&linkId=WZBERYXZDOJQWFRB">The Number Sense: How the Mind Creates Mathematics</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=learni084-20&l=as2&o=1&a=0195132408" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+
+<p><a rel="nofollow" href="http://www.amazon.com/gp/product/0684854171/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0684854171&linkCode=as2&tag=learni084-20&linkId=WU4PPI4MPQILVDEI">What Counts: How Every Brain is Hardwired for Math</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=learni084-20&l=as2&o=1&a=0684854171" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+</p>
+
 <h2 style="clear:left;">More about Number Sense in Animals</h2>
 <ul>
 
@@ -32,7 +33,6 @@ categories: [Videos]
 
 <li><a href="http://io9.com/5885568/answer-quickly-are-there-more-fish-on-the-left-or-right-side-of-this-image">Article on the guppies vs college students study</a> by Robert T. Gonzalez on io9</li>
 </ul>
-</div>
 
 <h2 class="transcript">Transcript</h2>
                                  
@@ -44,7 +44,7 @@ Luckily, one person was not convinced. His name was Oskar Pfungst, and he tested
 
 And guess what? The trick is still done today. (<a href="http://animal.discovery.com/videos/pet-star-pet-star-golden-nugget.html" title="Pet Star: Golden Nugget">Video of a horse on Animal Planet</a> answering "what's six plus six?" by tapping its hoof 12 times. Then a <a href="http://www.oprah.com/oprahshow/Maggie-the-Dog-Does-Math" title="Maggie the math dog - Episode:The Tiniest Dog in the World , The Oprah Winfrey Show">video of a dog on Opera</a> tapping its paw to answer "what's two times three?")
 
-For a long time after this Clever Hans incident, all the scientists were very skeptical about animal intelligence. Maybe if this Clever Hans thing never happened, more research would've been done by the time Jean Piaget was around, and Piaget wouldn't have thought children were born blank slates, and his theories wouldn't have influenced educators, and educators wouldn't have ruined math for an entire generation of students! But that was <a href="http://www.learningnerd.com/children-number-sense/" title="When Do Children Develop Number Sense?">my last video</a>. (Note: Piaget's theories did influence educators, but there were many other factors that contributed to the New Math movement and its failure. This was just an exaggerated, hypothetical example to make the point that Clever Hans had an influence that lasted for many years.)
+For a long time after this Clever Hans incident, all the scientists were very skeptical about animal intelligence. Maybe if this Clever Hans thing never happened, more research would've been done by the time Jean Piaget was around, and Piaget wouldn't have thought children were born blank slates, and his theories wouldn't have influenced educators, and educators wouldn't have ruined math for an entire generation of students! But that was <a href="http://learningnerd.com/children-number-sense/" title="When Do Children Develop Number Sense?">my last video</a>. (Note: Piaget's theories did influence educators, but there were many other factors that contributed to the New Math movement and its failure. This was just an exaggerated, hypothetical example to make the point that Clever Hans had an influence that lasted for many years.)
 
 Anyway, here's what Monsieur Piaget has to say about animals doing math:
 
@@ -58,9 +58,7 @@ Invertebrates <em>can</em> do math. Uh, OK, sort of. They have a sense of number
 
 And a weird experiment on desert ants suggests that they actually count how many steps they take to get to their food and then use that knowledge to walk the same number of steps to get back to their nest. How do we know that? Well, you have to watch this dorky cartoon from NPR:
 
-<p style="text-align:center;">
-http://www.youtube.com/watch?v=7DDF8WZFnoU
-</p>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/7DDF8WZFnoU?rel=0" frameborder="0" allowfullscreen></iframe>
 
 The scientists put some ants on stilts (I didn't know you could put ants on stilts!), so that way they would take longer steps. And for another group of ants, they <em>cut off part of their legs</em> so they would take shorter steps! The ants on stilts took the same number of steps back home and walked <em>past</em> their nest, while the stumpy-legged ants took the same number of steps and stopped <em>before</em> they got back home, and so the best explanation we have is that apparently ants can count!
 
@@ -72,21 +70,13 @@ Oh OK, maybe not identical; the student test didn't involve any swimming. It was
 
 And with training, some animals can do way, way more than that, like Ayumu the chimpanzee and even Alex the African grey parrot.
 
-<p style="text-align:center;">
-http://www.youtube.com/watch?v=zJAH4ZJBiN8&t=15s
-</p>
-
 (Learn more about Alex the parrot and Irene Pepperberg's incredible research in this <a href="http://video.pbs.org/video/1778560467/" title="Irene Pepperberg and Alex on NOVA scienceNOW">PBS video</a> and this <a href="http://www.youtube.com/watch?v=O_Fpad20Zbk" title="Bird Brainiac - Extraordinary Animals - Animal Planet">video on YouTube</a>.)
 
 <blockquote>"This system, this gut sense of number, is something evolutionarily very old. I mean rats have it, pigeons have it..." (Dr. Justin Halberda, in <em><a href="http://www.bbc.co.uk/programmes/b00qzlbv" title="What Makes a Genius? - BBC Horizon">What Makes a Genius?</a></em>)</blockquote>
 
 Ants have it, bees have it, fish have it, and <a href="http://www.sciencedirect.com/science/article/pii/S0003347284710529" title="Roaring and numerical assessment in contests between groups of female lions, Panthera leo">lions</a>, <a href="http://rspb.royalsocietypublishing.org/content/275/1649/2373.full" title="Adaptive numerical competency in a food-hoarding songbird">birds</a>, <a href="http://rspb.royalsocietypublishing.org/content/267/1445/829.short" title="Spontaneous number representation in semi-free-ranging rhesus monkeys">monkeys</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/10890585" title="Estimating and operating on discrete quantities in orangutans (Pongo pygmaeus)">apes</a>, <a href="http://www.springerlink.com/content/p8086140362q6781/" title="Quantity-based judgments in the domestic dog (Canis lupus familiaris)">dogs</a>, <a href="http://www.springerlink.com/content/vg7n4054016g8813/" title="Quantity discrimination in felines: a preliminary investigation of the domestic cat (Felis silvestris catus)">cats</a>, <a href="http://www.springerlink.com/content/ep77k43510438wm6/" title="A bottlenose dolphin discriminates visual stimuli differing in numerosity">dolphins</a>, <a href="http://www.sciencedirect.com/science/article/pii/S0003347212002126" title="Bears ‘count’ too: Quantity estimation and comparison in black bears, Ursus Americanus">bears</a>, <a href="http://www.springerlink.com/content/e570558411513j74/" title="Discrimination of the number three by a raccoon (Procyon lotor)">raccoons</a>, <a href="http://www.springerlink.com/content/0v4r469686105x73/" title="Relative quantity judgment by Asian elephants (Elephas maximus)">elephants</a>, and <a href="http://www.springerlink.com/content/w4n55tq8v61356g1/" title="Relative quantity judgments in South American sea lions (Otaria flavescens)">sea lions</a> have it. <a href="http://jeb.biologists.org/content/213/11/1822.full" title="Quantity discrimination in salamanders">Salamanders</a> try to eat the video showing more flies. <a href="http://rspb.royalsocietypublishing.org/content/early/2009/03/26/rspb.2009.0044.full" title="Arithmetic in newborn chicks">Baby chicks</a> choose the larger group of balls. <a href="http://www.springerlink.com/content/tx26u02831ph3164/" title="Horses (Equus caballus) select the greater of two quantities in small numerical contrasts">Horses</a> can't add fractions but they <em>can</em> tell the difference between two and three. And I bet that penguins and giraffes and velociraptors and all other animals have it too! It's not just us.
 
-
-</div>
-
-<div id="references">
-<h2>References</h2>
+<h2 id="references">References</h2>
 <ul>
 <li><a href="http://www.amazon.com/gp/product/0195132408/ref=as_li_ss_tl?ie=UTF8&tag=learni084-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0195132408">The Number Sense: How the Mind Creates Mathematics</a><img src="http://www.assoc-amazon.com/e/ir?t=learni084-20&l=as2&o=1&a=0195132408" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> by Stanislas Dehaene</li>
 
@@ -158,10 +148,8 @@ Ants have it, bees have it, fish have it, and <a href="http://www.sciencedirect.
 Uller, C. & Lewis, J. (2009). <a href="http://www.springerlink.com/content/tx26u02831ph3164/">Horses (Equus caballus) select the greater of two quantities in small numerical contrasts</a>. Animal Cognition, 12(5), 733-738.</li>
 
 </ul>
-</div>
 
-<div id="credits">
-<h2>Media Credits</h2>
+<h2 id="credits">Media Credits</h2>
 <ul>
 
 	<li>"Fig Leaf Rag" performed by Kevin MacLeod, <a href="http://incompetech.com/">Incompetech.com</a></li>
@@ -218,5 +206,3 @@ Uller, C. & Lewis, J. (2009). <a href="http://www.springerlink.com/content/tx26u
 
 	<li>Video game sound effect by HardPCM on <a href="http://FreeSound.org">FreeSound.org</a></li>
 </ul>
-
-</div>

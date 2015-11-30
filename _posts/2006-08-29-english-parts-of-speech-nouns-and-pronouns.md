@@ -1,19 +1,17 @@
 ---
-layout: post
-title: English Parts of Speech: Nouns and Pronouns
+layout: article
+title: "English Parts of Speech: Nouns and Pronouns"
 date: 2006-08-29 10:00
-author: learningnerd
-comments: true
-categories: [English, Grammar, Language]
+categories: [English]
 permalink: /2006/08/29/english-parts-of-speech-nouns-and-pronouns/
 ---
-<em>Series index: </em><a href="http://learningnerd.wordpress.com/2006/08/28/english-parts-of-speech-overview/"><em>English Parts of Speech Overview</em></a>
+<em>Series index: </em><a href="http://learningnerd.com/2006/08/28/english-parts-of-speech-overview/"><em>English Parts of Speech Overview</em></a>
 <p class="MsoNormal">&nbsp;</p>
 
 <h2>Nouns</h2>
 We've all heard this before: a noun is a person, place or thing. GrammarStation.com's <a target="_blank" href="http://www.grammarstation.com/KnowYourNouns.html">Know Your Nouns</a> page gives grammatical information about (almost) any noun.
 <h3>Case</h3>
-Nouns have three cases: <a target="_blank" href="http://www.thefreedictionary.com/nominative+case" title="Nominative case - TheFreeDictionary.com">nominative</a> (or subjective), <a target="_blank" href="http://www.thefreedictionary.com/objective+case" title="Objective case - TheFreeDictionary.com">objective</a>, and <a target="_blank" href="http://www.thefreedictionary.com/possessive+case" title="Possessive case - TheFreeDictionary.com">possessive</a>. For nouns, the nominative and objective cases look the same; grammarians just use them to distinguish a sentence's subject from its object. (See <a href="http://learningnerd.wordpress.com/2006/09/10/english-grammar-basic-sentence-elements/">Basic Sentence Elements</a>.)
+Nouns have three cases: <a target="_blank" href="http://www.thefreedictionary.com/nominative+case" title="Nominative case - TheFreeDictionary.com">nominative</a> (or subjective), <a target="_blank" href="http://www.thefreedictionary.com/objective+case" title="Objective case - TheFreeDictionary.com">objective</a>, and <a target="_blank" href="http://www.thefreedictionary.com/possessive+case" title="Possessive case - TheFreeDictionary.com">possessive</a>. For nouns, the nominative and objective cases look the same; grammarians just use them to distinguish a sentence's subject from its object. (See <a href="http://learningnerd.com/2006/09/10/english-grammar-basic-sentence-elements/">Basic Sentence Elements</a>.)
 
 For everything you ever wanted to know about the possessive case, see <a target="_blank" href="http://www.bartleby.com/64/82.html">The American Heritage Book of English Usage - Forming Possesives</a>.
 <h3>Gender and Number</h3>
@@ -41,10 +39,10 @@ Number is simple enough; English nouns are either singular or plural. See <a ta
 	<li><a target="_blank" href="http://owl.english.purdue.edu/handouts/grammar/g_verbals.html#gerunds" title="Gerunds, Participles, and Infinitives - Gerunds"><strong>Gerunds</strong></a> - <em>Swimming</em> is fun. See <u><font color="#800080"><a target="_blank" href="http://www.bartleby.com/64/C001/028.html">The American Heritage Book of English Usage - Gerunds</a></font></u> for more on using gerunds with possesives.</li>
 </ul>
 <ul>
-	<li><a target="_blank" href="http://owl.english.purdue.edu/handouts/grammar/g_verbals.html#infinitives" title="Gerunds, Participles, and Infinitives - Infinitives"><strong>Infinitives</strong></a> - I like <em>to swim</em>. See <a target="_blank" href="http://grammar.ccc.commnet.edu/grammar/gerunds.htm">Gerunds and Infinitives: Their Noun Roles</a> for more on using gerunds and infinitives as <a href="http://learningnerd.wordpress.com/2006/09/10/english-grammar-basic-sentence-elements/" title="Basic Sentence Elements">sentence elements</a>. Also be sure to check out this interesting essay on the subtle differences in meaning between gerunds and infinitives: <a target="_blank" href="http://home.bluemarble.net/~langmin/miniatures/complem.htm">Stop to Smell the Roses But Don't Stop Smelling the Roses</a>.</li>
+	<li><a target="_blank" href="http://owl.english.purdue.edu/handouts/grammar/g_verbals.html#infinitives" title="Gerunds, Participles, and Infinitives - Infinitives"><strong>Infinitives</strong></a> - I like <em>to swim</em>. See <a target="_blank" href="http://grammar.ccc.commnet.edu/grammar/gerunds.htm">Gerunds and Infinitives: Their Noun Roles</a> for more on using gerunds and infinitives as <a href="http://learningnerd.com/2006/09/10/english-grammar-basic-sentence-elements/" title="Basic Sentence Elements">sentence elements</a>. Also be sure to check out this interesting essay on the subtle differences in meaning between gerunds and infinitives: <a target="_blank" href="http://home.bluemarble.net/~langmin/miniatures/complem.htm">Stop to Smell the Roses But Don't Stop Smelling the Roses</a>.</li>
 </ul>
 <ul>
-	<li><a target="_blank" href="http://www.lousywriter.com/nouns_word_groups.php"><strong>Words and Word Groups Used As Nouns</strong></a> - With a little poetic license, you can use any word as a noun -- even whole <a href="http://learningnerd.wordpress.com/2006/09/08/english-grammar-types-of-clauses/" title="Types of Clauses">clauses</a> can function as nouns within a sentence (<em>That you could say such a thing</em> bewilders me).</li>
+	<li><a target="_blank" href="http://www.lousywriter.com/nouns_word_groups.php"><strong>Words and Word Groups Used As Nouns</strong></a> - With a little poetic license, you can use any word as a noun -- even whole <a href="http://learningnerd.com/2006/09/08/english-grammar-types-of-clauses/" title="Types of Clauses">clauses</a> can function as nouns within a sentence (<em>That you could say such a thing</em> bewilders me).</li>
 </ul>
 <h2>Pronouns</h2>
 Pronouns are noun-substitutes used to avoid repetition.
@@ -55,7 +53,7 @@ When you think of pronouns, you probably think of personal pronouns: <em>I</em>,
 	<li><a target="_blank" href="http://grammar.uoregon.edu/pronouns/demonstrative.html"><strong>Demonstrative Pronouns</strong></a> (or independent demonstratives) - <em>this</em>, <em>that</em>, <em>these</em>, and <em>those</em>. Wikipedia explains the difference between <a target="_blank" href="http://en.wikipedia.org/wiki/Demonstrative#Determinative_adjectives_and_pronouns" title="Wikipedia - Demonstrative - Determinative Adjectives and Pronouns">demonstrative pronouns and demonstrative adjectives</a>.</li>
 </ul>
 <ul>
-	<li><a target="_blank" href="http://en.wikipedia.org/wiki/English_relative_clauses" title="Wikipedia - English Relative Clauses"><strong>Relative Pronouns</strong></a> - <em>who</em>, <em>whom</em>, <em>whose</em>, <em>which</em>, <em>that</em>, and sometimes <em>what</em>. These introduce <a href="http://learningnerd.wordpress.com/2006/09/08/english-grammar-types-of-clauses/" title="Types of Clauses">relative clauses</a>. The use of the words <em>which </em>and <em>that</em> often causes confusion (and many arguments); see the links at the bottom of "How to Avoid Common Pronoun Errors" below.</li>
+	<li><a target="_blank" href="http://en.wikipedia.org/wiki/English_relative_clauses" title="Wikipedia - English Relative Clauses"><strong>Relative Pronouns</strong></a> - <em>who</em>, <em>whom</em>, <em>whose</em>, <em>which</em>, <em>that</em>, and sometimes <em>what</em>. These introduce <a href="http://learningnerd.com/2006/09/08/english-grammar-types-of-clauses/" title="Types of Clauses">relative clauses</a>. The use of the words <em>which </em>and <em>that</em> often causes confusion (and many arguments); see the links at the bottom of "How to Avoid Common Pronoun Errors" below.</li>
 </ul>
 <ul>
 	<li><a target="_blank" href="http://englishplus.com/grammar/00000342.htm"><strong>Interrogative Pronouns</strong></a> - <em>what</em>, <em>which</em>, <em>who</em>, <em>whom</em>, and <em>whose</em>.</li>

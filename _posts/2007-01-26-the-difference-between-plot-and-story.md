@@ -1,9 +1,6 @@
 ---
-layout: post
-title: The Difference Between Plot and Story
-date: 2007-01-26 19:40
-author: lizkrane
-comments: true
+layout: article
+title: "The Difference Between Plot and Story"
 categories: [Uncategorized]
 ---
 When looking at some sites about <a href="http://en.wikipedia.org/wiki/Plot_%28narrative%29">plot</a> and <a href="http://en.wikipedia.org/wiki/Story">story</a>, I ran across this quote (or misquote?) a few times:

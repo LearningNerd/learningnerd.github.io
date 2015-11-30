@@ -1,32 +1,33 @@
 ---
-layout: post
-title: When Do Children Develop Number Sense?
+layout: article
+title: "When Do Children Develop Number Sense?"
 date: 2012-03-14 00:00
-author: lizkrane
-comments: true
-categories: [Videos]
+category: Featured
 ---
 <p>Today I learned about a couple theories and some interesting research on numerical cognition in children. And I thoroughly enjoyed debunking Piaget!</p>
-<p style="margin-bottom:0;"><a href="http://www.learningnerd.com/children-number-sense/#article">Transcript</a> | <a href="http://www.learningnerd.com/children-number-sense/#references">References</a> | <a href="http://www.learningnerd.com/children-number-sense/#credits">Media Credits</a> | <a href="http://www.learningnerd.com/children-number-sense/#comments">Comments</a></p>
-</div><div id="video"><iframe width="640" height="360" src="http://www.youtube.com/embed/R890raSJWYg?showinfo=0&rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe></div></div>
-<div id="primary">
-<div id="content" role="main">
-<article>
-<div class="entry-content">
-<div id="article">
 
+<p><a href="http://learningnerd.com/children-number-sense/#article">Transcript</a> | <a href="http://learningnerd.com/children-number-sense/#references">References</a> | <a href="http://learningnerd.com/children-number-sense/#credits">Media Credits</a></p>
 
-<div class="pull alignleft">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/R890raSJWYg?controls=0" frameborder="0" allowfullscreen></iframe>
+
 <h2>Featured Books</h2>
-<p><a href="http://www.amazon.com/gp/product/1879431785/ref=as_li_ss_il?ie=UTF8&tag=learni084-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1879431785"><img class="alignleft" border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&Format=_SL110_&ASIN=1879431785&MarketPlace=US&ID=AsinImage&WS=1&tag=learni084-20&ServiceVersion=20070822" width=50 height=78 style="margin-left:-20px;margin-right:5px;"></a><a href="http://www.amazon.com/gp/product/1879431785/ref=as_li_ss_tl?ie=UTF8&tag=learni084-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1879431785">My First Book of Time (DK Games)</a><img src="http://www.assoc-amazon.com/e/ir?t=learni084-20&l=as2&o=1&a=1879431785" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<p style="float:left; padding: 0 20px; margin-top: 0px;"><a rel="nofollow" href="http://www.amazon.com/gp/product/1879431785/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1879431785&linkCode=as2&tag=learni084-20&linkId=SG3LFV2HU2BBJRRK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1879431785&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=learni084-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=learni084-20&l=as2&o=1&a=1879431785" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </p>
 
-<p style="clear:left;">
-<a href="http://www.amazon.com/gp/product/0195132408/ref=as_li_ss_il?ie=UTF8&tag=learni084-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0195132408"><img class="alignleft" border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&Format=_SL110_&ASIN=0195132408&MarketPlace=US&ID=AsinImage&WS=1&tag=learni084-20&ServiceVersion=20070822" width=50 height=78 style="margin-left:-20px;margin-right:5px;"></a><a href="http://www.amazon.com/gp/product/0195132408/ref=as_li_ss_tl?ie=UTF8&tag=learni084-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0195132408">The Number Sense: How the Mind Creates Mathematics</a><img src="http://www.assoc-amazon.com/e/ir?t=learni084-20&l=as2&o=1&a=0195132408" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+<p style="float:left; padding: 0 20px; margin-top: 0px;"><a rel="nofollow" href="http://www.amazon.com/gp/product/0195132408/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0195132408&linkCode=as2&tag=learni084-20&linkId=WZBERYXZDOJQWFRB"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0195132408&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=learni084-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=learni084-20&l=as2&o=1&a=0195132408" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
 
-<p style="clear:left;"><a href="http://www.amazon.com/gp/product/0684854171/ref=as_li_ss_il?ie=UTF8&tag=learni084-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0684854171"><img class="alignleft" border="0" src="http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&Format=_SL110_&ASIN=0684854171&MarketPlace=US&ID=AsinImage&WS=1&tag=learni084-20&ServiceVersion=20070822" width=50 height=78 style="margin-left:-20px;margin-right:5px;"></a><a href="http://www.amazon.com/gp/product/0684854171/ref=as_li_ss_tl?ie=UTF8&tag=learni084-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0684854171">What Counts: How Every Brain is Hardwired for Math</a><img src="http://www.assoc-amazon.com/e/ir?t=learni084-20&l=as2&o=1&a=0684854171" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+<p style="float:left; padding: 0 20px; margin-top: 0px;"><a rel="nofollow" href="http://www.amazon.com/gp/product/0684854171/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0684854171&linkCode=as2&tag=learni084-20&linkId=WU4PPI4MPQILVDEI"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0684854171&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=learni084-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=learni084-20&l=as2&o=1&a=0684854171" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
 
-<h2 style="clear:left;">More about New Math</h2>
+<p style="clear:both;">
+<a rel="nofollow" href="http://www.amazon.com/gp/product/1879431785/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1879431785&linkCode=as2&tag=learni084-20&linkId=HHVD6RUZNZB4QTP4">My First Book of Time (DK Games)</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=learni084-20&l=as2&o=1&a=1879431785" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+
+<p><a rel="nofollow" href="http://www.amazon.com/gp/product/0195132408/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0195132408&linkCode=as2&tag=learni084-20&linkId=WZBERYXZDOJQWFRB">The Number Sense: How the Mind Creates Mathematics</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=learni084-20&l=as2&o=1&a=0195132408" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
+
+<p><a rel="nofollow" href="http://www.amazon.com/gp/product/0684854171/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0684854171&linkCode=as2&tag=learni084-20&linkId=WU4PPI4MPQILVDEI">What Counts: How Every Brain is Hardwired for Math</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=learni084-20&l=as2&o=1&a=0684854171" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+</p>
+
+<h2>More about New Math</h2>
 <ul>
 
 <li><a href="http://www.straightdope.com/columns/read/1529/what-exactly-was-the-new-math">What exactly was the "new math"?</a> on The Straight Dope</li>
@@ -37,7 +38,6 @@ categories: [Videos]
 
 <li><a href="http://www.math.rochester.edu/people/faculty/rarm/smsg.html">Whatever Happened to the New Math?</a> by Ralph A. Raimi</li>
 </ul>
-</div>
 
 <h2 class="transcript">Transcript</h2>
 <p>So I was taking a little stroll down memory lane, and I found the book that saved my life. Because learning to tell time was probably the most difficult thing I have <em>ever</em> learned, to this day, and it's still a bit of a struggle for me. But that's for another video. The reason that I dug up this book is because I was trying to figure out at what age I first understood what a number is. And I didn't have any luck, unfortunately.</p>
@@ -56,7 +56,7 @@ categories: [Videos]
 
 <p>To give a really brief and one-sided history lesson, in the 60s and 70s there was a popular reform in math education known as New Math. You might've heard of it from the popular song by Tom Lehrer:</p>
 
-<p style="text-align:center;"><iframe width="400" height="315" src="http://www.youtube.com/embed/UIKGV2cTgqA?rel=0" frameborder="0" allowfullscreen></iframe></p>
+<iframe width="960" height="720" src="https://www.youtube.com/embed/UIKGV2cTgqA?controls=0" frameborder="0" allowfullscreen></iframe>
 
 <p>The very funny, very confusing New Math movement was heavily influenced by Piaget's theories. People thought Piaget had proven that children can't understand numbers until they first have a logical foundation for them, so teachers thought it made perfect sense to focus on really formal, abstract ideas like set theory. And so math education was stripped of all its intuitiveness, because Piaget thought children have no intuition!</p>
 
@@ -81,10 +81,8 @@ categories: [Videos]
 <p>Actually, if you have access to young children, you can do the experiments yourself! I would <em>love</em> to see the results! And I think we need to show the future generations of educators and psychologists (who will undoubtedly learn everything they know from YouTube) that children aren't actually as stupid as we used to think.</p>
 
 <blockquote><p>"Not bad for the first day. Hoo-ray for New Math, new hoo hoo math. It won't do you a bit of good to review math. It's so simple, so very simple, that only a child can do it!" — <a href="http://curvebank.calstatela.edu/newmath/newmath.htm">"New Math"</a> by Tom Lehrer</p></blockquote>
-</div>
 
-<div id="references">
-<h2>References</h2>
+<h2 id="references">References</h2>
 <ul>
 <li><a href="http://www.amazon.com/gp/product/0452288118/ref=as_li_ss_tl?ie=UTF8&tag=learni084-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0452288118">Number: The Language of Science</a><img src="http://www.assoc-amazon.com/e/ir?t=learni084-20&l=as2&o=1&a=0452288118" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> by Tobias Dantzig</li>
 
@@ -123,10 +121,8 @@ categories: [Videos]
 
 <li>Wynn, K. (1995). <a href="http://books.google.com/books?hl=en&lr=&id=eK4egLfRgGkC&oi=fnd&pg=PA35&ots=AEWQYWv3sN&sig=caVL-G98GWob3twOKWAJb6_wMa8=onepage&q&f=false">Origins of Numerical Knowledge</a>. Mathematical Cognition, 1, 35-60.</li>
 </ul>
-</div>
 
-<div id="credits">
-<h2>Media Credits</h2>
+<h2 id="credits">Media Credits</h2>
 <ul>
 <li><a href="http://www.youtube.com/watch?v=YtLEWVu815o&t=1m29s">Conservation task</a> by jenningh</li>
 
@@ -158,4 +154,3 @@ categories: [Videos]
 
 <li><a href="http://openclipart.org/detail/23338/silhouette-of-a-brain-by-laobc">Silhouette of a brain</a> by laobc on <a href="http://openclipart.org/">OpenClipArt.org</a></li>
 </ul>
-</div>

@@ -1,13 +1,11 @@
 ---
-layout: post
-title: English Etymology Resources
+layout: article
+title: "English Etymology Resources"
 date: 2006-08-27 09:14
-author: learningnerd
-comments: true
-categories: [English, Language, Words]
+categories: [English]
 permalink: /2006/08/27/english-etymology/
 ---
-A knowledge of etymology helps with <a href="http://learningnerd.wordpress.com/2006/08/19/improve-your-vocabulary/" title="Improve Your Vocabulary">vocabulary</a> and <a href="http://learningnerd.wordpress.com/2006/08/23/improve-your-spelling/" title="Improve Your Spelling">spelling</a>, but only if you take an active interest. <a target="_blank" href="http://www.krysstal.com/wordname.html">The Origin of Words and Names</a> has some delightful tidbits of information that should pique your interest. If you need a little background, SparkNotes offers <a target="_blank" href="http://www.sparknotes.com/testprep/books/newsat/powertactics/vocab/chapter2section1.rhtml">A Very Brief History of English</a>, aimed at students studying vocabulary for the SAT.
+A knowledge of etymology helps with <a href="http://learningnerd.com/2006/08/19/improve-your-vocabulary/" title="Improve Your Vocabulary">vocabulary</a> and <a href="http://learningnerd.com/2006/08/23/improve-your-spelling/" title="Improve Your Spelling">spelling</a>, but only if you take an active interest. <a target="_blank" href="http://www.krysstal.com/wordname.html">The Origin of Words and Names</a> has some delightful tidbits of information that should pique your interest. If you need a little background, SparkNotes offers <a target="_blank" href="http://www.sparknotes.com/testprep/books/newsat/powertactics/vocab/chapter2section1.rhtml">A Very Brief History of English</a>, aimed at students studying vocabulary for the SAT.
 
 Note: some sites may have incorrect information. See this article on <a target="_blank" href="http://www.wordorigins.org/Topics/errors.html">Common Errors in Popular Etymology</a>.     
 <h2>References and Lists of Word Origins</h2>

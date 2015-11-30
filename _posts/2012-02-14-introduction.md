@@ -1,27 +1,20 @@
 ---
-layout: post
-title: So I'm Gonna Learn Everything
+layout: article
+title: "So I'm Gonna Learn Everything"
 date: 2012-02-14 23:33
-author: lizkrane
-comments: true
-categories: [Videos]
+category: Featured
 ---
 <p>Hello! My name's Liz and yup, I want to learn everything. And while I'm at it, I'll also be making lots of videos to share what I learn. This 3-minute introduction video explains what this crazy project is and why I'm doing it.</p>
-<p style="margin-bottom:0;"><a href="http://www.learningnerd.com/introduction/#article">Transcript</a> | <a href="http://www.learningnerd.com/introduction/#references">References</a> | <a href="http://www.learningnerd.com/introduction/#credits">Media Credits</a> | <a href="http://www.learningnerd.com/introduction/#comments">Comments</a></p>
-</div><div id="video"><iframe width="640" height="360" src="http://www.youtube.com/embed/thbDZBQk3Ng?showinfo=0&rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe></div></div>
-<div id="primary">
-<div id="content" role="main">
-<article>
-<div class="entry-content">
-<div id="article">
 
-<div id="references" class="pull alignleft">
-<h2>References</h2>
+<p><a href="http://learningnerd.com/introduction/#article">Transcript</a> | <a href="http://learningnerd.com/introduction/#references">References</a> | <a href="http://learningnerd.com/introduction/#credits">Media Credits</a></p>
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/thbDZBQk3Ng?controls=0" frameborder="0" allowfullscreen></iframe>
+
+<h2 id="references">References</h2>
 <ul>
 <li>"I have no special talents. I am only passionately curious." – Albert Einstein. (via <a href="http://www.goodreads.com/quotes/show/11458">GoodReads</a>)</li>
-	<li>"If you can't explain it simply, you don't understand it well enough." According to <a href="a href="http://en.wikiquote.org/wiki/Albert_Einstein#Misattributed">Wikiquote</a>, this is often misattributed to Einstein.</li>
+	<li>"If you can't explain it simply, you don't understand it well enough." According to <a href="http://en.wikiquote.org/wiki/Albert_Einstein#Misattributed">Wikiquote</a>, this is often misattributed to Einstein.</li>
 </ul>
-</div>
 
 <h2 class="transcript">Transcript</h2>
 <p>
@@ -55,10 +48,8 @@ You know the saying, "Knowledge is power." Well, that's one reason to learn ever
 <p>Teaching is the best way to learn. Like that popular quote says it, "If you can't explain it simply, you don't understand it well enough." Plus, sharing what I learn with the whole world is a great way to keep myself motivated. But that part that really makes me feel all warm and fuzzy inside is giving back to the amazing community that is the internet.</p>
 
 <p>So, I hope my videos are useful in some way, and I hope you join me and never stop learning new things. But, in return, you have to teach me everything <em>you</em> know. I might need a little help once I get to rocket science.</p>
-</div>
 
-<div id="credits">
-<h2>Media Credits</h2>
+<h2 id="credits">Media Credits</h2>
 
 <ul>
 <li>Sweet, sweet classical music: <a href="http://musopen.org/music/piece/415">The Four Seasons: Winter</a> by Antonio Vivaldi, from <a href="http://musopen.org/">Musopen.org</a></li>
@@ -106,7 +97,6 @@ You know the saying, "Knowledge is power." Well, that's one reason to learn ever
 
 <li><a href="http://thenounproject.com/">TheNounProject.com</a> also has some symbols in the public domain.</li>
 </ul>
-</div>
 
 <p>Also relevant is <a href="http://xkcd.com/863/">Major in the Universe</a> by Randall Monroe. (Thanks <a href="https://plus.google.com/u/0/112889705697072923299/about">Marco Piedra</a> for sending this my way! It sure sounds familiar...)
-<a href="http://xkcd.com/863/"><img class="size-medium wp-image-382" title="Major in the Universe" src="http://www.learningnerd.com/pics/major_in_the_universe.png" alt="" width="740" height="289" /></a></p>
+<a href="http://xkcd.com/863/"><img class="size-medium wp-image-382" title="Major in the Universe" src="http://learningnerd.com/images/major_in_the_universe.png" alt="" width="740" height="289" /></a></p>

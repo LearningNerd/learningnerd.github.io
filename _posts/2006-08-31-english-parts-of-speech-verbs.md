@@ -1,13 +1,11 @@
 ---
-layout: post
-title: English Parts of Speech: Verbs
+layout: article
+title: "English Parts of Speech: Verbs"
 date: 2006-08-31 09:21
-author: learningnerd
-comments: true
-categories: [English, Grammar, Language]
+categories: [English]
 permalink: /2006/08/31/english-parts-of-speech-verbs/
 ---
-<em>Series index: </em><a href="http://learningnerd.wordpress.com/2006/08/28/english-parts-of-speech-overview/"><em>English Parts of Speech Overview</em></a>
+<em>Series index: </em><a href="http://learningnerd.com/2006/08/28/english-parts-of-speech-overview/"><em>English Parts of Speech Overview</em></a>
 <p class="MsoNormal">&nbsp;</p>
 Verbs express actions and states of existence, like "I <em>eat</em>" and "I <em>am </em>hungry." <a target="_blank" href="http://www.grammarstation.com/KnowyourVerb.html">Know Your Verb Tenses</a> offers grammatical information about any verb.
 <h2>Conjugation</h2>
@@ -30,7 +28,7 @@ They can be categorized based on their conjugations:
 	<li><a target="_blank" href="http://en.wikipedia.org/wiki/Defective_verb"><strong>Defective Verbs</strong></a> - <em>can</em>, <em>do</em>, <em>will</em>, etc.</li>
 </ul>
 <h3>Verb Agreement: Number and Person</h3>
-In English, a verb must agree with the <a target="_blank" href="http://www.usingenglish.com/glossary/number.html" title="UsingEnglish.com Glossary - Number">number</a> and <a target="_blank" href="http://www.usingenglish.com/glossary/person.html" title="UsingEnglish.com Glossary - Person">person</a> of its subject: <em>I write</em>, <em>you write</em>, <em>he/she/it writes</em>, <em>we write</em>, <em>you (y'all) write</em>, <em>they write</em>. See <a target="_blank" href="http://owl.english.purdue.edu/owl/resource/599/01/">Making Subjects and Verbs Agree</a> for basic guidelines. These conjugated verbs, called <a target="_blank" href="http://www.usingenglish.com/glossary/finite-verb.html" title="UsingEnglish.com Glossary - Finite Verbs">finite verbs</a>, are required to form a complete <a href="http://learningnerd.wordpress.com/2006/09/10/english-grammar-basic-sentence-elements/" title="Basic Sentence Elements">sentence</a>; on the other hand, <a target="_blank" href="http://www.usingenglish.com/glossary/non-finite-verb.html" title="UsingEnglish.com Glossary - Non-finite Verbs">non-finite verbs</a> can't function as verbs without helping verbs (see <a href="http://learningnerd.wordpress.com/2006/08/31/english-parts-of-speech-verbs/#types">Types of Verbs</a> below).
+In English, a verb must agree with the <a target="_blank" href="http://www.usingenglish.com/glossary/number.html" title="UsingEnglish.com Glossary - Number">number</a> and <a target="_blank" href="http://www.usingenglish.com/glossary/person.html" title="UsingEnglish.com Glossary - Person">person</a> of its subject: <em>I write</em>, <em>you write</em>, <em>he/she/it writes</em>, <em>we write</em>, <em>you (y'all) write</em>, <em>they write</em>. See <a target="_blank" href="http://owl.english.purdue.edu/owl/resource/599/01/">Making Subjects and Verbs Agree</a> for basic guidelines. These conjugated verbs, called <a target="_blank" href="http://www.usingenglish.com/glossary/finite-verb.html" title="UsingEnglish.com Glossary - Finite Verbs">finite verbs</a>, are required to form a complete <a href="http://learningnerd.com/2006/09/10/english-grammar-basic-sentence-elements/" title="Basic Sentence Elements">sentence</a>; on the other hand, <a target="_blank" href="http://www.usingenglish.com/glossary/non-finite-verb.html" title="UsingEnglish.com Glossary - Non-finite Verbs">non-finite verbs</a> can't function as verbs without helping verbs (see <a href="http://learningnerd.com/2006/08/31/english-parts-of-speech-verbs/#types">Types of Verbs</a> below).
 <h3>Tense and Aspect</h3>
 English has three distinct tenses (past, present, and future) and three distinct aspects (simple, perfect, and progressive). Whereas tense distinguishes between <em>I write</em> (present) and <em>I wrote</em> (past), aspect distinguishes between <em>I write</em> (present simple) and <em>I am writing</em> (present progressive). Traditional grammar generally uses the term "tense" for both -- in fact, I had never heard of verb aspect until today.
 
@@ -55,16 +53,16 @@ Verbs are either in the active voice (<em>I threw the ball</em>) or the passive 
 <h3>Mood</h3>
 English has three (arguably four) moods: indicative, imperative, and subjunctive -- some also include the conditional mood.
 <ul>
-	<li><a target="_blank" href="http://en.wikipedia.org/wiki/Grammatical_mood#Indicative_mood" title="Wikipedia - Grammatical Mood - Indicative Mood"><strong>Indicative</strong></a> - <em>He writes.</em> Makes a factual statement. Used in a <a href="http://learningnerd.wordpress.com/2006/09/12/english-grammar-types-of-sentences/" title="Types of Sentences">declarative sentence</a>.</li>
+	<li><a target="_blank" href="http://en.wikipedia.org/wiki/Grammatical_mood#Indicative_mood" title="Wikipedia - Grammatical Mood - Indicative Mood"><strong>Indicative</strong></a> - <em>He writes.</em> Makes a factual statement. Used in a <a href="http://learningnerd.com/2006/09/12/english-grammar-types-of-sentences/" title="Types of Sentences">declarative sentence</a>.</li>
 </ul>
 <ul>
-	<li><a target="_blank" href="http://en.wikipedia.org/wiki/Grammatical_mood#Imperative_mood" title="Wikipedia - Grammatical Mood - Imperative Mood"><strong>Imperative</strong></a> - <em>Students, please write. </em>States a command. Used in an <a href="http://learningnerd.wordpress.com/2006/09/12/english-grammar-types-of-sentences/" title="Types of Sentences">imperative sentence</a>.</li>
+	<li><a target="_blank" href="http://en.wikipedia.org/wiki/Grammatical_mood#Imperative_mood" title="Wikipedia - Grammatical Mood - Imperative Mood"><strong>Imperative</strong></a> - <em>Students, please write. </em>States a command. Used in an <a href="http://learningnerd.com/2006/09/12/english-grammar-types-of-sentences/" title="Types of Sentences">imperative sentence</a>.</li>
 </ul>
 <ul>
 	<li><a target="_blank" href="http://en.wikipedia.org/wiki/Grammatical_mood#Subjunctive_mood" title="Wikipedia - Grammatical Mood - Subjunctive Mood"><strong>Subjunctive</strong></a> - <em>I wish he were right. </em>Expresses doubts, wishes, hopes, and (in some cases) commands. For more on using the subjunctive mood, see <a target="_blank" href="http://www.bartleby.com/64/C001/061.html">The American Heritage Book of English Usage - Subjunctive</a>.</li>
 </ul>
 <ul>
-	<li><a target="_blank" href="http://en.wikipedia.org/wiki/Grammatical_mood#Conditional_mood" title="Wikipedia - Grammatical Mood - Subjunctive Mood"><strong>Conditional</strong></a> - <em>I would write (if I had a pen).</em> Expresses what one would do if a condition were met. Used in the several types of <a href="http://learningnerd.wordpress.com/2006/09/12/english-grammar-types-of-sentences/" title="Types of Sentences">conditional sentences</a>. See <a target="_blank" href="http://grammar.ccc.commnet.edu/grammar/conditional.htm">Conditonal Verb Forms</a> for more on using the conditional with the subjunctive.</li>
+	<li><a target="_blank" href="http://en.wikipedia.org/wiki/Grammatical_mood#Conditional_mood" title="Wikipedia - Grammatical Mood - Subjunctive Mood"><strong>Conditional</strong></a> - <em>I would write (if I had a pen).</em> Expresses what one would do if a condition were met. Used in the several types of <a href="http://learningnerd.com/2006/09/12/english-grammar-types-of-sentences/" title="Types of Sentences">conditional sentences</a>. See <a target="_blank" href="http://grammar.ccc.commnet.edu/grammar/conditional.htm">Conditonal Verb Forms</a> for more on using the conditional with the subjunctive.</li>
 </ul>
 <h2><a name="types" title="types"></a>Types of Verbs</h2>
 Linguists categorize other types of verbs based on their meaning and usage.
