@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /featured/
+permalink: /english/
 title: "Articles About English"
 ---
 
