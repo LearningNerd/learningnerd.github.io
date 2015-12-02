@@ -11,7 +11,6 @@ My next project will be a <em>math immersion month</em> with daily videos in Dec
 {% for post in site.categories.math %}
 	{% include post-list.html %}
 {% endfor %}
-</div><!-- /.tiles -->
 
 <strong><a href="https://plus.google.com/u/0/collection/kAGMq">See my previous daily video experiments here</a></strong>.
 
