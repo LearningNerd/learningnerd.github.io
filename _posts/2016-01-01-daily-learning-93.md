@@ -121,7 +121,7 @@ My next task is to complete the first project in the course:  implement all the 
 - Learn how to use the hardwars simulator.
 - Learn how to write HDL -- read [Appendix A](http://nand2tetris.org/chapters/appendix%20A.pdf) (PDF) sections A1 to A6 
 - Complete part 1 to 3 of the [hardware simulator tutorial](http://nand2tetris.org/tutorials/PDF/Hardware%20Simulator%20Tutorial.pdf) (PDF).
-- Figure out how to combine Nand gates into several other gates according to the project files and the end of Chapter 1.
+- Figure out how to combine Nand gates into several other gates according to the project files at the end of Chapter 1.
 
 I guess I won't be finishing this today, because I already used up my alotted 2 hours of study time (and I'm about to fall asleep)! But I'll pick up where I left off tomorrow.
 
