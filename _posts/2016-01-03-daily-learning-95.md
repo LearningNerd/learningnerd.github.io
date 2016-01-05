@@ -11,7 +11,9 @@ Today I experimented to see what a self-therapy video blog might look like. And 
 ## Brain Changelog
 
 ### Version 0.0.1
+
 #### Added
+
 - This CHANGELOG (inspired by [Keep a Changelog](http://keepachangelog.com/)), to track the project of reprogramming Liz's brain and to serve as a fun example of the confluence between software development (especially open source) and [cognitive behavioral therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy). (Not sure how well I can follow [Semantic Versioning](http://semver.org), though.)
 - New habit: weekly self-therapy vlog.
 - New rule: schedule shared activities with my family prior to visiting them.
