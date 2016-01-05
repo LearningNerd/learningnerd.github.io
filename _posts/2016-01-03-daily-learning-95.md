@@ -22,9 +22,9 @@ Today I experimented to see what a self-therapy video blog might look like. And 
 
 ## Time breakdown
 
-- Video production time: 
-  - Script writing/preparation: 
-  - Filming/setup: 
-  - Video editing: 
+- Video production time: 2 hours 54 min
+  - Script writing/preparation: none
+  - Filming/setup: 1 hour 16 min
+  - Video editing: 1 hour 23 min
   - Publishing: 15 min
 - Study time: none
