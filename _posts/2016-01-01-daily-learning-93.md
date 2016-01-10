@@ -118,7 +118,7 @@ I like this quote: "Similar to the role of axioms in mathematics, primitive gate
 My next task is to complete the first project in the course:  implement all the logic gates from Chapter 1, all built from Nand gates! In order to accomplish this, I'll need to assimliate a few different pieces of this puzzle:
 
 - Install the [NAND2Tetris course software suite](http://nand2tetris.org/software.php), which includes a hardware simluator and a bunch of other things.
-- Learn how to use the hardwars simulator.
+- Learn how to use the hardware simulator.
 - Learn how to write HDL -- read [Appendix A](http://nand2tetris.org/chapters/appendix%20A.pdf) (PDF) sections A1 to A6 
 - Complete part 1 to 3 of the [hardware simulator tutorial](http://nand2tetris.org/tutorials/PDF/Hardware%20Simulator%20Tutorial.pdf) (PDF).
 - Figure out how to combine Nand gates into several other gates according to the project files at the end of Chapter 1.
