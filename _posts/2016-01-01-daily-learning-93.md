@@ -4,7 +4,9 @@ title: "Starting my computer science year: NAND2Tetris and my history with progr
 category: Vlog
 ---
 
-I started the free [NAND2Tetris](http://nand2tetris.org/) course on "building a modern computer from first principles", woohoo! (Detailed notes below.) But before that, I took a moment to reflect on my past encounters with programming and computer science in [today's video blog](https://www.youtube.com/watch?v=jb-WvIakDAg):
+I started the free [NAND2Tetris](http://nand2tetris.org/) course on "building a modern computer from first principles", woohoo! (Detailed notes below.) But before that, I took a moment to reflect on my past encounters with programming and computer science in [today's video blog](https://www.youtube.com/watch?v=jb-WvIakDAg).
+
+{% include toc.html %}
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/jb-WvIakDAg" frameborder="0" allowfullscreen></iframe>
 
