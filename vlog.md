@@ -4,7 +4,7 @@ permalink: /vlog/
 title: "Daily Vlog Experiment"
 ---
 
-From October 2015 to January 2016, I made 100 daily video blogs in 100 days to share what I'm learning -- both about myself and about the world -- as an experiment to fight my fears, gain self-acceptance, and channel my curiosity.
+From October 2015 to January 2016, I made 100 daily video blogs in 100 days to share what I'm learning -- both about myself and about the world -- as an experiment to fight my fears, gain self-acceptance, and channel my curiosity. I'm continuing the personal side of this project with a [weekly self-therapy vlog](/self-therapy-vlog/).
 
 ## January 2016
 
