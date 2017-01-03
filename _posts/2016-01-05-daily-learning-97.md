@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Checking my understanding (Daily Learning Vlog #97)"
-category: Vlog
+category: vlog
 ---
 
 When you only have 5 minutes to spare and you're half-asleep, how can you still make progress towards a learning goal? Do a quick review, of course! I hadn't looked at [NAND2Tetris](http://nand2tetris.org/) in a while so I gave myself a tiny challenge: see how much I could remember from Chapter 1 off the top of my head.

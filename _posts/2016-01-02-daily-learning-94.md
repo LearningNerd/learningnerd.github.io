@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "First look at NAND2Tetris hardware simulator (Daily Learning Vlog #94)"
-category: Vlog
+category: vlog
 ---
 
 I spent 30 minutes poking around the software tools for [NAND2Tetris](http://nand2tetris.org/), so here's what that looked like. Boring? Yes. But I'm having fun experimenting with how the act of documenting my learning process in different ways can alter the learning process itself. It seems to spur me on to keep trying when I might normally give up.

@@ -2,7 +2,7 @@
 layout: article
 title: "So I'm Gonna Learn Everything"
 date: 2012-02-14 23:33
-category: Featured
+category: featured
 ---
 <p>Hello! My name's Liz and yup, I want to learn everything. And while I'm at it, I'll also be making lots of videos to share what I learn. This 3-minute introduction video explains what this crazy project is and why I'm doing it.</p>
 

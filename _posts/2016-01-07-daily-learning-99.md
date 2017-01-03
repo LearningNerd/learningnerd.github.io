@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Being confused is fun and good for learning! (Daily Learning Vlog #99)"
-category: Vlog
+category: vlog
 ---
 
 Just a quick personal check-in, plus a couple thoughts on my learning process and why I'm nervous about the talk I'm giving at a high school tomorrow. Eeek, teenagers! Nah, I'm sure it will be fun once I get over my nerves.

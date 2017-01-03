@@ -2,7 +2,7 @@
 layout: article
 title: "Series Introduction: The Fundamental Concepts of Arithmetic"
 date: 2012-02-22 17:26
-category: Featured
+category: featured
 ---
 <p>A short look at my personal experiences with math, why I'm starting with arithmetic, and a glimpse of what this series will cover.</p>
 
