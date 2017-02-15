@@ -19,6 +19,15 @@ highlighter: rouge
 gems:
   - jekyll-sitemap
 
+  # Front Matter defaults
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files that are posts
+      type: "posts"
+    values:
+      ads: true
+      comments: true
 
 # Site owner
 owner:
@@ -26,11 +35,11 @@ owner:
   email:
   twitter: "LearningNerd"
   google:
-    ad-client:
-    ad-slot:
-  bio:
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-  disqus-shortname:
+    ad-client: "ca-pub-3989977449236900"
+    ad-slot: "4864146471"
+  bio: "Liz is a full-time nerd, sharing everything she learns as she tries to learn everything!"
+  avatar: "/lizkrane.jpg"
+  disqus-shortname: "learningnerd"
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
