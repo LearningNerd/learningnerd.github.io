@@ -10,7 +10,10 @@ From October 2015 to January 2016, I made 100 daily video blogs in 100 days to s
 
 <div class="tiles">
 {% for post in site.categories.vlog %}
-	{% include post-list.html %}
+	{% capture year %}{{ post.date | date: "%Y" }}{% endcapture %}
+	{% if year != "2017" %}
+		{% include post-list.html %}
+	{% endif %}
 {% endfor %}
 </div><!-- /.tiles -->
 
@@ -28,4 +31,4 @@ My December 2015 project: see if I can not only (re)learn math but also learn to
 
 <a href="https://plus.google.com/u/0/collection/kAGMq">See all the previous vlogs here</a>
 
-(Pardon my laziness -- I will post all the old video blogs on this page soon. For now, they're all in my Google+ collection in the link above. Cheers!)
+(Pardon my laziness -- I will post all the old video blogs on this page soon. For now, they're all in my Google+ collection in the link above.)

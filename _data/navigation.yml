@@ -4,18 +4,15 @@
   url: /introduction/
   excerpt: "More about this crazy learn-everything project."
   image:
-
 - title: Featured Videos
   url: /featured/
   excerpt: "My more polished videos."
   image:
-
 - title: Math Month
   url: /math/
   excerpt: "December 2015 project: daily videos about my attempt to fight my math anxiety and learn to love math!"
   image:
-  
-- title: Daily Vlog
-  url: /vlog/
-  excerpt: "October and November 2015: daily video blog to gain self-acceptance and fight depression with curiosity!"
+- title: Learn Teach Code
+  url: /learn-teach-code/
+  excerpt: "Documenting my journey with Learn Teach Code, the meetup group I founded in 2015, and starting my own programming bootcamp."
   image:

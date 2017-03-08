@@ -18,8 +18,9 @@ kramdown:
 highlighter: rouge
 gems:
   - jekyll-sitemap
+repository: learningnerd/learningnerd.github.com
 
-  # Front Matter defaults
+# Front Matter defaults
 defaults:
   -
     scope:
