@@ -2,6 +2,8 @@
 layout: article
 title: "Learn Teach Code Vlog #1 (Unedited): Starting my own programming bootcamp"
 category: learn-teach-code
+image:
+  teaser: 2017-03-08-vlog.jpg
 ---
 
 This is just an unedited self-therapy video blog about fighting anxiety as I work on starting a part-time programming bootcamp. Building off the work I've done with <a href="http://learnteachcode.org/">Learn Teach Code</a>, the meetup group I started in 2015, this will be the most ambitious project I've attempted so far! And I'm excited, but also terrified! So I figured I'd better share the journey.

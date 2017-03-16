@@ -12,6 +12,6 @@ For **March 2017**, my newest (and craziest!) project is to start **my own progr
 
 <div class="tiles">
 {% for post in site.categories.learn-teach-code %}
-	{% include post-list.html %}
+	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
