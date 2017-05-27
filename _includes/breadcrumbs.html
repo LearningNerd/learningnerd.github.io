@@ -1,13 +1,15 @@
 {% if page.categories and page.categories != empty %}
   <nav class="breadcrumbs">
     <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-      <a href="{{ site.url }}" itemprop="url">
+      <a class="bold" href="{{ site.url }}" itemprop="url">
         <span itemprop="title">Home</span>
-      </a> › 
-    <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-      <a href="{{ site.url }}/{{ page.categories | first }}/" itemprop="url">
-        <span itemprop="title">{{ page.categories | first | replace: '-',' ' | capitalize }}</span>
-      </a>
-    </span>
+      </a> › <span class="bold" style="margin-left: 10px;">Categories:</span>  
+    {% for category in page.categories %}
+        <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+          <a href="{{ site.url }}/{{ category }}/" itemprop="url" style="margin: 0 5px;">
+            <span itemprop="title">{{ category | replace: '-',' '}}</span>
+          </a>
+        </span>{% unless forloop.last %}  <span style="font-weight:700;">/</span>  {% endunless %}
+    {% endfor %}    
   </nav><!-- /.breadcrumbs -->
 {% endif %}
