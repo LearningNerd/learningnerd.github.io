@@ -23,6 +23,7 @@ limit: 25
   </author>
 
   {% for post in site.posts limit: page.limit %}
+    {% unless post.categories contains 'daily' or post.nofeed %}
   <entry>
     <title>{{ post.title | xml_escape }}</title>
     <link href="{{ base }}{{ post.url }}"/>
@@ -38,6 +39,7 @@ limit: 25
       {{ post.content | xml_escape }}
     </content>
   </entry>
+    {% endunless %}
   {% endfor %}
   
 </feed>
