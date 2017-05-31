@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Inane"
 date: 2007-05-30 18:17
-categories: [Uncategorized]
+cats: [english]
 ---
 <em><a href="http://dictionary.reference.com/browse/inane">Inane</a></em>, as a noun, means "something that is empty or void, esp. the void of infinite space." Similarly, the adjective form means "empty; void" or "lacking sense, significance, or ideas; silly".
 

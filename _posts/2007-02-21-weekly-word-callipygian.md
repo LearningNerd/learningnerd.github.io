@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Callipygian"
 date: 2007-02-21 13:44
-categories: [Uncategorized]
+cats: [english]
 ---
 They have a word for everything, don't they? This one made me laugh. :lol: <em><a href="http://dictionary.reference.com/browse/callipygian">Callipygian</a></em> is an adjective that means "having well-shaped buttocks."
 

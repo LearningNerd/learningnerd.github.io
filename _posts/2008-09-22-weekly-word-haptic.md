@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Haptic"
 date: 2008-09-22 16:05
-categories: [Uncategorized]
+cats: [english]
 ---
 The adjective <em><a href="http://dictionary.reference.com/browse/haptic">haptic</a></em> means "of or relating to the sense of touch; tactile". This must be another rare one, because my spell-checker doesn't believe it's a word!
 

@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Incontrovertible"
 date: 2009-01-12 22:18
-categories: [Uncategorized]
+cats: [english]
 ---
 Here's a long adjective with a short definition: <em><a href="http://dictionary.reference.com/browse/incontrovertible">incontrovertible</a></em> means "not open to question", "indisputable", "impossible to deny", or, phrased another way, "necessarily or demonstrably true". I prefer any of those definitions over "not controvertible". Why does Dictionary.com even bother including that? :roll:
 

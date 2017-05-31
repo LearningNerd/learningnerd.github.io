@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Antiquarian"
 date: 2007-09-05 20:30
-categories: [Uncategorized]
+cats: [english]
 ---
 My mom's an <em><a href="http://dictionary.reference.com/browse/antiquarian">antiquarian</a></em> (or an <em><a href="http://dictionary.reference.com/browse/antiquary">antiquary</a></em>): "One who studies, collects, or deals in antiquities." She sells antiques for a living, specializing in vintage purses. But this guy proves that collecting antiques can be a very manly hobby, too:
 

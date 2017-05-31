@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Damask"
 date: 2008-09-16 10:27
-categories: [Uncategorized]
+cats: [english]
 ---
 <em><a href="http://dictionary.reference.com/browse/damask">Damask</a></em> is a type of "rich patterned fabric", and it can also refer to "the pink color of the damask rose". The word <em>damask</em> is also an adjective ("resembling damask") and a verb ("to decorate or weave with rich patterns").
 

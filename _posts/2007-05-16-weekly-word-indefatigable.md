@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Indefatigable"
 date: 2007-05-16 21:04
-categories: [Uncategorized]
+cats: [english]
 ---
 <a href="http://dictionary.reference.com/browse/indefatigable"><em>Indefatigable</em></a> is a long adjective that means "incapable of being tired out". I found this word from a post on <a href="http://swissmiss.typepad.com/weblog/2007/05/satees_for_the_.html">swissmiss</a> about t-shirts for babies that feature SAT words.
 

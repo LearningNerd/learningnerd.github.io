@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Autotelic"
 date: 2009-09-22 07:29
-categories: [Uncategorized]
+cats: [english]
 ---
 <em><a href="http://dictionary.reference.com/browse/autotelic">Autotelic</a></em> is an adjective that means "having within itself the purpose of its existence".
 

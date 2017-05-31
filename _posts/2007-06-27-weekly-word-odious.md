@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Odious"
 date: 2007-06-27 19:42
-categories: [Uncategorized]
+cats: [english]
 ---
 Something that's <em><a href="http://dictionary.reference.com/browse/odious">odious</a></em> is "hateful", "disgusting", or "highly offensive".
 

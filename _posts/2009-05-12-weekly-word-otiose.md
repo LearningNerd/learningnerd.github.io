@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Otiose"
 date: 2009-05-12 09:12
-categories: [Uncategorized]
+cats: [english]
 ---
 The adjective <em><a href="http://dictionary.reference.com/browse/otiose">otiose</a></em> means "useless", "ineffective", or "being at leisure". It comes straight from that Latin word <em>otiosus</em>, "having leisure or ease, not busy".
 

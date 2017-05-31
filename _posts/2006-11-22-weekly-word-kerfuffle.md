@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Kerfuffle"
 date: 2006-11-22 18:52
-categories: [Uncategorized]
+cats: [english]
 ---
 <a href="http://dictionary.reference.com/search?q=kerfuffle&x=0&y=0">Kerfuffle</a> - <em>n. a disorderly outburst or tumult.</em>
 

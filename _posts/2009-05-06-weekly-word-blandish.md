@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Blandish"
 date: 2009-05-06 12:00
-categories: [Uncategorized]
+cats: [english]
 ---
 No, <em><a href="http://dictionary.reference.com/browse/blandish">blandish</a></em> doesn't only mean "sort of bland". It's also a verb that means "to coax or influence by gentle flattery".
 

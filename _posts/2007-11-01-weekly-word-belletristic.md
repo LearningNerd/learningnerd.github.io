@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Belletristic"
 date: 2007-11-01 17:10
-categories: [Uncategorized]
+cats: [english]
 ---
 It's that time of year again -- time for <a href="http://www.nanowrimo.org/">National Novel Writing Month</a>! To commemorate my second year of NaNoveling, I found a new literary word: <em>belletristic</em>.
 

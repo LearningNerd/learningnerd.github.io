@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Onus"
 date: 2008-12-01 09:58
-categories: [Uncategorized]
+cats: [english]
 ---
 The noun <em><a href="http://www.merriam-webster.com/cgi-bin/mwwodarch.pl?Nov.22.2008">onus</a></em> means "a disagreeable necessity", an "obligation", "burden", or "blame". From Merriam-Webster:
 

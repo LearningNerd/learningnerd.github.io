@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Simoleon"
 date: 2009-07-13 08:09
-categories: [Uncategorized]
+cats: [english]
 ---
 Maybe I'm the only person who didn't already know this, but <em><a href="http://dictionary.reference.com/browse/simoleon">simoleons</a></em>, the currency from <em>The Sims</em> series of video games, is actually a slang term for dollars!
 

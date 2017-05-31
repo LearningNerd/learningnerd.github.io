@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Operose"
 date: 2008-05-06 19:44
-categories: [Uncategorized]
+cats: [english]
 ---
 <em><a href="http://dictionary.reference.com/browse/operose">Operose</a></em> is an adjective that means "industrious, as a person" or "done with or involving much labor".
 

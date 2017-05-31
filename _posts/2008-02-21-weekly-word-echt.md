@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Echt"
 date: 2008-02-21 16:11
-categories: [Uncategorized]
+cats: [english]
 ---
 The adjective <em><a href="http://dictionary.reference.com/browse/echt">echt</a></em> means "real; authentic; genuine". Sounds German, doesn't it? Because it's a real, authentic, genuine German word! It comes from Middle Low German <em>echte</em>, related to Old High German <em>eohaft</em>, meaning "customary".
 

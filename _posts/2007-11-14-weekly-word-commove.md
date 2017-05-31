@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Commove"
 date: 2007-11-14 14:10
-categories: [Uncategorized]
+cats: [english]
 ---
 To <em><a href="http://dictionary.reference.com/browse/commove">commove</a></em> is "to move violently; agitate; excite". It's a strange-looking word if you ask me, but apparently it comes from the same Latin root as <em><a href="http://www.etymonline.com/index.php?term=commotion">commotion</a></em>.
 

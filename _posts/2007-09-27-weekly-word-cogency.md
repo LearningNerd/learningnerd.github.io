@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Cogency"
 date: 2007-09-27 15:11
-categories: [Uncategorized]
+cats: [english]
 ---
 My writing teacher has been using the word <em>cogency</em> all the time, and I never bothered to look it up. I've been so busy with school, I haven't had time for anything else!
 

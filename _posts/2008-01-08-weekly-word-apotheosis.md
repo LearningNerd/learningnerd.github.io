@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Apotheosis"
 date: 2008-01-08 11:47
-categories: [Uncategorized]
+cats: [english]
 ---
 <em><a href="http://dictionary.reference.com/browse/apotheosis">Apotheosis</a></em> is "the elevation or exaltation of a person to the rank of a god". It can also mean "the ideal example" or "epitome".
 

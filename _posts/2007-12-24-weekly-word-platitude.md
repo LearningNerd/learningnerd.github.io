@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Platitude"
 date: 2007-12-24 13:13
-categories: [Uncategorized]
+cats: [english]
 ---
 A <em><a href="http://dictionary.reference.com/browse/platitude">platitude</a></em> is "a flat, dull, or trite remark, esp. one uttered as if it were fresh or profound". It can also refer to "lack of originality" in general.
 

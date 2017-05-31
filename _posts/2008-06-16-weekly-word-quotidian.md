@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Quotidian"
 date: 2008-06-16 21:58
-categories: [Uncategorized]
+cats: [english]
 ---
 <div class="figureleft"><img src="http://learningnerd.com/images/campbells.jpg" alt="" /></div>
 

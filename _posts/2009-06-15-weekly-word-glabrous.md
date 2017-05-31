@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Glabrous"
 date: 2009-06-15 20:10
-categories: [Uncategorized]
+cats: [english]
 ---
 The adjective <em><a href="http://www.merriam-webster.com/dictionary/glabrous">glabrous</a></em> sounds like what it means: "smooth", "bald", or more specifically, "having a surface without hairs or projections".
 

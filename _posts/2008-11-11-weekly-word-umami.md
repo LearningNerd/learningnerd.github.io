@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Umami"
 date: 2008-11-11 15:28
-categories: [Uncategorized]
+cats: [english]
 ---
 So, you might've seen one of those commercials... You know, the Kikkoman commercials with all the fancy food photography that always seems to be on just before dinner time. (I wonder why. :roll: )
 

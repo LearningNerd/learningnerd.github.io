@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Effluvium"
 date: 2006-12-13 15:50
-categories: [Uncategorized]
+cats: [english]
 ---
 Infoplease runs a daily word quiz, and the other day they asked <a href="http://www.infoplease.com/wordoftheday?month=Dec&day=07">this question</a>:
 

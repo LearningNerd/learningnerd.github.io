@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Pugnacious"
 date: 2008-04-28 09:44
-categories: [Uncategorized]
+cats: [english]
 ---
 The adjective <em><a href="http://dictionary.reference.com/browse/pugnacious">pugnacious</a></em> means "inclined to quarrel or fight readily", "combative", or "tough and callous by virtue of experience".
 

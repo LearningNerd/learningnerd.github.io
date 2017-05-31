@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Bork"
 date: 2007-04-04 11:31
-categories: [Uncategorized]
+cats: [english]
 ---
 To <a href="http://dictionary.reference.com/browse/bork"><em>bork</em></a> is "to attack (a candidate or public figure) systematically, esp. in the media." <a href="http://en.wikipedia.org/wiki/Bork" title="Bork on Wikipedia">Wikipedia</a> has a longer description:
 

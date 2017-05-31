@@ -2,7 +2,7 @@
 layout: article
 title: "When Do Children Develop Number Sense?"
 date: 2012-03-14 00:00
-category: featured
+cats: featured
 ---
 <p>Today I learned about a couple theories and some interesting research on numerical cognition in children. And I thoroughly enjoyed debunking Piaget!</p>
 

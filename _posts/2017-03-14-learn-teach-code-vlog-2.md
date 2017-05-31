@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Learn Teach Code Vlog #2: The moment of truth!"
-category: learn-teach-code
+cats: learn-teach-code
 image:
   teaser: 2017-03-14-vlog.jpg
 ---

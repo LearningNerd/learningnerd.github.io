@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Sciolism"
 date: 2009-03-24 10:52
-categories: [Uncategorized]
+cats: [english]
 ---
 Merriam-Webster picked <em><a href="http://www.merriam-webster.com/cgi-bin/mwwodarch.pl?Mar.23.2009">sciolism</a></em> as yesterday's word of the day. It's a noun that means "a superficial show of learning" or "superficial knowledge". Merriam-Webster explains that <em>sciolism</em> traces back to the Latin word <em>scire</em>, which means "to know":
 

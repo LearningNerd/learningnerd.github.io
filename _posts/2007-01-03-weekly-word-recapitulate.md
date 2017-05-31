@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Recapitulate"
 date: 2007-01-03 21:01
-categories: [Uncategorized]
+cats: [english]
 ---
 <a href="http://dictionary.reference.com/browse/recapitulate">Recapitulate</a> - <em>v. to review by a brief summary, as at the end of a speech or discussion; summarize.</em>
 

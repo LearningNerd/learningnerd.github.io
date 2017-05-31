@@ -22,8 +22,8 @@ limit: 25
     {% if site.owner.email %}<email>{{ site.owner.email }}</email>{% endif %}
   </author>
 
-  {% for post in site.posts limit: page.limit %}
-    {% unless post.categories contains 'daily' or post.nofeed %}
+  {% for post in site.posts limit: page.limit %}  
+    {% unless post.cats contains 'daily' or post.nofeed %}
   <entry>
     <title>{{ post.title | xml_escape }}</title>
     <link href="{{ base }}{{ post.url }}"/>

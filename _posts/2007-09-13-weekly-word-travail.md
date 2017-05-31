@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Travail"
 date: 2007-09-13 06:57
-categories: [Uncategorized]
+cats: [english]
 ---
 <em><a href="http://dictionary.reference.com/browse/travail">Travail</a></em> is "painfully difficult or burdensome work", "suffering resulting from mental or physical hardship", or "the pain of childbirth". As a verb, <em>travail</em> means "to suffer the pangs of childbirth" or "to toil or exert oneself".
 

@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Abecedarian"
 date: 2007-04-11 10:38
-categories: [Uncategorized]
+cats: [english]
 ---
 I found <a href="http://dictionary.reference.com/browse/abecedarian"><em>abecedarian</em></a> the other day from <a href="http://dictionary.reference.com/wordoftheday/">Dictionary.com's Word of the Day</a>. As a noun, it means "a person who is learning the letters of the alphabet" or "a beginner in any field of learning". As an adjective, it means "of or pertaining to the alphabet", "arranged in alphabetical order", or "rudimentary".
 

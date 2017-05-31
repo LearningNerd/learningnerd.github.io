@@ -2,7 +2,7 @@
 layout: article
 title: "So I'm Gonna Learn Everything"
 date: 2012-02-14 23:33
-category: featured
+cats: featured
 ads: false
 comments: false
 ---

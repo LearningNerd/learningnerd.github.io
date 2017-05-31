@@ -2,7 +2,7 @@
 layout: article
 title: "English Punctuation Overview"
 date: 2006-09-14 10:04
-categories: [English]
+cats: [english]
 permalink: /2006/09/14/english-punctuation-overview/
 ---
 <em>Got grammar? See </em><a href="http://learningnerd.com/2006/09/26/everything-you-need-to-improve-your-english-grammar/"><em>Everything You Need to Improve Your English Grammar</em></a><em>.</em>

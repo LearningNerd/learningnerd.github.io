@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Amaranth"
 date: 2006-11-29 18:11
-categories: [Uncategorized]
+cats: [english]
 ---
 <em><a href="http://dictionary.reference.com/search?q=amaranth&x=12&y=10">Amaranth</a></em> is a noun with a few different meanings:
 

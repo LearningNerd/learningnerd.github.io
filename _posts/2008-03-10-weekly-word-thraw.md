@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Thraw"
 date: 2008-03-10 17:11
-categories: [Uncategorized]
+cats: [english]
 ---
 The verb <em><a href="http://dictionary.reference.com/browse/thraw">to thraw</a></em> means "to throw" in British dialect, and in Scottish it means "to twist" or "to oppose". The adjective <em>thrawn</em> can mean "twisted; crooked" or "perverse; contrary". I discovered this word through a post by my internet buddy Kiri, who wrote about some of the <a href="http://www.wkiri.com/today/?p=62">words used in Tolkien's <em>The Lord of the Rings</em></a>.
 

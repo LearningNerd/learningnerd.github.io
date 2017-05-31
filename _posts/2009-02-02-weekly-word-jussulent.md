@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Jussulent"
 date: 2009-02-02 22:05
-categories: [Uncategorized]
+cats: [english]
 ---
 I recently discovered <a href="http://www.savethewords.org/">Save The Words</a>, an effort (actually, just an <a href="http://adsoftheworld.com/media/online/the_oxford_dictionary_save_the_words" title="Ads of the World - Save The Words">ad campaign</a>) by the Oxford Dictionary to rescue obscure English words in danger of extinction. How? The website lets you "adopt" a word and pledge to rescue it. Imagine my joy when I saw all those new words calling out to me like cute puppies at the pound! I didn't know which to pick!
 

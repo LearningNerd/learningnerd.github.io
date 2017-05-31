@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Errant"
 date: 2007-07-25 10:13
-categories: [Uncategorized]
+cats: [english]
 ---
 <em><a href="http://dictionary.reference.com/browse/errant">Errant</a></em> is an adjective that means "deviating from the regular or proper course", "roving, especially in search of adventure", or "aimless".
 

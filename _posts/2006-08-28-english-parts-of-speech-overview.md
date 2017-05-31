@@ -2,7 +2,7 @@
 layout: article
 title: "English Parts of Speech Overview"
 date: 2006-08-28 14:19
-categories: [English]
+cats: [english]
 permalink: /2006/08/28/english-parts-of-speech-overview/
 ---
 <em>Got grammar? See </em><a href="http://learningnerd.com/2006/09/26/everything-you-need-to-improve-your-english-grammar/"><em>Everything You Need to Improve Your English Grammar</em></a><em>.</em>

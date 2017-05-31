@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Vignette"
 date: 2007-07-12 16:56
-categories: [Uncategorized]
+cats: [english]
 ---
 <div class="figureright"><img src="http://learningnerd.com/images/vignette.gif" alt="A flower vignette" /></div>
 

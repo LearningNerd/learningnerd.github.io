@@ -1,5 +1,4 @@
 # Site wide configuration
-
 title: "LearningNerd"
 description: "Learning everything, sharing everything I learn!"
 logo: # 120x120 px default image used for Twitter summary card
@@ -8,7 +7,6 @@ locale: en
 url: http://learningnerd.com
 
 # Jekyll configuration
-
 sass:
     sass_dir: _sass
     style: compressed
@@ -22,13 +20,23 @@ repository: learningnerd/learningnerd.github.com
 
 # Front Matter defaults
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # an empty string here means all files that are posts
       type: "posts"
     values:
       ads: true
       comments: true
+  - scope:
+      path: ""
+      type: cats
+    values:
+      layout: archive
+
+# Collections
+collections:
+  cats:
+    output: true
+    permalink: /:name/
 
 # Site owner
 owner:

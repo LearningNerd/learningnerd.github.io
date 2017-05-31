@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Dross"
 date: 2009-04-07 10:20
-categories: [Uncategorized]
+cats: [english]
 ---
 The word <em><a href="http://www.merriam-webster.com/cgi-bin/mwwodarch.pl?Mar.26.2009">dross</a></em> is a noun that means "something that is base, trivial, or inferior", "an impurity", or more specifically, "the scum that forms on the surface of molten metal".
 

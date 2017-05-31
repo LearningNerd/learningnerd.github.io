@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Abdominous"
 date: 2008-02-12 17:54
-categories: [Uncategorized]
+cats: [english]
 ---
 The adjective <em><a href="http://dictionary.reference.com/browse/abdominous">abdominous</a></em> means "having a large belly" or "potbellied".
 

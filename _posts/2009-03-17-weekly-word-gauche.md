@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Gauche"
 date: 2009-03-17 15:24
-categories: [Uncategorized]
+cats: [english]
 ---
 The adjective <em><a href="http://dictionary.reference.com/browse/gauche">gauche</a></em> means "lacking social grace", "awkward", or "crude". It comes from the French word <em>gauche</em>, meaning "left", which came from a similar but older French word that meant "to trample" or "walk clumsily" (see the <a href="http://www.etymonline.com/index.php?term=gauche" title="Online Etymology Dictionary - Gauche">OED</a> for more).
 

@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Fustigate"
 date: 2008-02-05 08:00
-categories: [Uncategorized]
+cats: [english]
 ---
 To <em><a href="http://dictionary.reference.com/browse/fustigate">fustigate</a></em> means "to beat with a club" or "to criticize harshly". It derives from the Latin word <em>fustis</em>, meaning "club", and <em>agere</em>, meaning "to do".
 

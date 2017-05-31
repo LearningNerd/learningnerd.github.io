@@ -2,7 +2,7 @@
 layout: article
 title: "Improve Your Spelling"
 date: 2006-08-23 09:18
-categories: [English]
+cats: [english]
 permalink: /2006/08/23/improve-your-spelling/
 ---
 Never take your spell checker for granted. I usually have no trouble with spelling, but I've noticed my skills gradually deteriorating. Well, I’ve misspelled one too many times; I need to take action!

@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Titivate"
 date: 2008-05-26 10:51
-categories: [Uncategorized]
+cats: [english]
 ---
 <em><a href="http://dictionary.reference.com/browse/titivate">Titivate</a></em> means "to make decorative additions to", "to spruce up". The word has been around for a while, but its origin is unknown. It's an alteration of <em>tidivate</em>, possibly a combination of the words <em>tidy</em> and <em>renovate</em> or <em>elevate</em>.
 

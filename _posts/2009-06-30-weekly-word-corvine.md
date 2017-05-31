@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Corvine"
 date: 2009-06-30 11:15
-categories: [Uncategorized]
+cats: [english]
 ---
 I haven't come across any particularly interesting new words lately, so I'm just going to share one of Merriam-Webster's words of the day, <em><a href="http://www.merriam-webster.com/cgi-bin/mwwodarch.pl?Jun.23.2009">corvine</a></em>. It's an adjective that means "resembling a crow".
 

@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Simulacrum"
 date: 2008-12-16 11:26
-categories: [Uncategorized]
+cats: [english]
 ---
 A <em><a href="http://dictionary.reference.com/browse/simulacrum">simulacrum</a></em> is "a slight, unreal, or superficial likeness or semblance", or "an effigy, image, or representation". Wikipedia's <a href="http://en.wikipedia.org/wiki/Simulacrum">Simulacrum</a> entry explains it in terms of philosophy, film, and even caricatures. Here's the blurb on the word's history:
 

@@ -1,7 +1,9 @@
 ---
 layout: article
 title: "Playing with truth tables and Boolean algebra (Daily Learning Vlog #98)"
-category: vlog
+cats:
+  - vlog
+  - daily
 ---
 
 Today I finally started exploring what I've learned so far from the [NAND2Tetris](http://nand2tetris.org/) course. I had fun matching up the logic gate names to their truth tables and then checked my understanding of Boolean algebra by reducing an expression down to its simplest form. It was a fun few minutes!

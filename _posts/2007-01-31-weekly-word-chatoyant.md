@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Chatoyant"
 date: 2007-01-31 13:50
-categories: [Uncategorized]
+cats: [english]
 ---
 Found from <a href="http://wordsmith.org/words/chatoyant.html" title="Chatoyant">A.Word.A.Day</a>, the adjective <a href="http://dictionary.reference.com/browse/chatoyant">chatoyant</a> means "changing in luster or color".
 

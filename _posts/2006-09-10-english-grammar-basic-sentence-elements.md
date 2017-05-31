@@ -2,12 +2,12 @@
 layout: article
 title: "English Grammar: Basic Sentence Elements"
 date: 2006-09-10 10:05
-categories: [English]
+cats: [english]
 permalink: /2006/09/10/english-grammar-basic-sentence-elements/
 ---
 <em>Got grammar? See </em><a href="http://learningnerd.com/2006/09/26/everything-you-need-to-improve-your-english-grammar/"><em>Everything You Need to Improve Your English Grammar</em></a><em>.</em>
 <p class="MsoNormal">&nbsp;</p>
-The basic parts of a sentence fall into two categories: the subject and the predicate. Know them well, because you can't have a sentence without them!
+The basic parts of a sentence fall into two cats: the subject and the predicate. Know them well, because you can't have a sentence without them!
 <h2>Subjects</h2>
 The subject performs the action of the sentence. It can be a <a href="http://learningnerd.com/2006/08/29/english-parts-of-speech-nouns-and-pronouns/" title="Nouns and Pronouns">noun</a>, <a href="http://learningnerd.com/2006/09/06/english-grammar-types-of-phrases/" title="Types of Phrases">noun phrase</a>, or <a href="http://learningnerd.com/2006/09/08/english-grammar-types-of-clauses/" title="Types of Clauses">noun clause</a>. To analyze sentences, grammarians have distinguished three kinds of subjects:
 <ul>

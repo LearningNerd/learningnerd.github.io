@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Abstemious"
 date: 2007-04-25 10:04
-categories: [Uncategorized]
+cats: [english]
 ---
 Ah, yes, <a href="http://dictionary.reference.com/browse/abstemious"><em>abstemious</em></a>. I forgot what it means, but as soon as I saw it on <a href="http://wordsmith.org/words/abstemious.html">A.Word.A.Day</a>, it reminded me of that stupid SAT prep class my dad made me take.
 

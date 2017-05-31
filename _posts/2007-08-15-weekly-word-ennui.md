@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Ennui"
 date: 2007-08-15 18:43
-categories: [Uncategorized]
+cats: [english]
 ---
 A fancy word borrowed from the French, <em><a href="http://dictionary.reference.com/browse/ennui">ennui</a></em> (pronounced ahn-wee) is basically a synonym for boredom.
 

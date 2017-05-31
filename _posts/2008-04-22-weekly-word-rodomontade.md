@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Rodomontade"
 date: 2008-04-22 20:03
-categories: [Uncategorized]
+cats: [english]
 ---
 <em><a href="http://dictionary.reference.com/browse/rodomontade">Rodomontade</a></em> is "vainglorious boasting or bragging". It's also an adjective meaning "bragging", and as a verb it means "to brag".
 

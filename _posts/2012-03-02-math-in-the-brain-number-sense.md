@@ -2,7 +2,7 @@
 layout: article
 title: "Math in the Brain: Number Sense"
 date: 2012-03-02 02:18
-category: featured
+cats: featured
 ---
 <p>Today I learned about number sense, the magical thing built into our brains that gives us our intuitive numerical abilities. I also took a number sense test at <a href="http://panamath.org/">Panamath.org</a>. I'm really curious to know if anyone else got an unexpected result...</p>
 

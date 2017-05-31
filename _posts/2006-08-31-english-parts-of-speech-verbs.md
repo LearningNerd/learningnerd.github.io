@@ -2,7 +2,7 @@
 layout: article
 title: "English Parts of Speech: Verbs"
 date: 2006-08-31 09:21
-categories: [English]
+cats: [english]
 permalink: /2006/08/31/english-parts-of-speech-verbs/
 ---
 <em>Series index: </em><a href="http://learningnerd.com/2006/08/28/english-parts-of-speech-overview/"><em>English Parts of Speech Overview</em></a>

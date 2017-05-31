@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Vinculum"
 date: 2009-07-27 16:39
-categories: [Uncategorized]
+cats: [english]
 ---
 This word came up for me recently in both a math book and in some random <em>Star Trek</em> trivia. A <em><a href="http://dictionary.reference.com/browse/vinculum">vinculum</a></em> is "a bond signifying union or unity".
 

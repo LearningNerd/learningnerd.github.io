@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Adulterate"
 date: 2007-07-18 17:15
-categories: [Uncategorized]
+cats: [english]
 ---
 As a verb, <em><a href="http://dictionary.reference.com/browse/adulterate">to adulterate</a></em> means to "corrupt, debase, or make impure by adding a foreign or inferior substance". The adjective, either <em>adulterated</em> or <em>adulterate</em> (pronounced like the adjective form of <em>moderate</em>), means "mixed with impurities".
 

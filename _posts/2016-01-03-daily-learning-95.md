@@ -1,7 +1,9 @@
 ---
 layout: article
 title: "2016 Week 1 Self-therapy vlog (Daily Learning Vlog #95)"
-category: vlog
+cats:
+  - vlog
+  - daily
 ---
 
 Today I experimented to see what a self-therapy video blog might look like. And I may also post the unedited version here once I have time to upload it. I also started a personal changelog (see below) to track my efforts to reprogram my brain and conquer anxiety and my other most personal obstacles.

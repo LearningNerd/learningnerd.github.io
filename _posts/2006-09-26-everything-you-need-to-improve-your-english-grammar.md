@@ -2,7 +2,7 @@
 layout: article
 title: "Everything You Need to Improve Your English Grammar"
 date: 2006-09-26 10:27
-categories: [English]
+cats: [english]
 permalink: /2006/09/26/everything-you-need-to-improve-your-english-grammar/
 ---
 Good grammar helps with almost every job and every endeavor. <a target="_blank" href="http://www.washingtontimes.com/op-ed/20041215-085728-5559r.htm">Why the Bad Grammar?</a>, an interesting article in <em>The Washington Times</em>, points out that grammatical errors have become more common, even in published work. So give yourself a pat on the back for wanting to improve; with all the bad writers out there, you'll stand out even more!

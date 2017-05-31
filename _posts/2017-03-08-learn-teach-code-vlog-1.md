@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Learn Teach Code Vlog #1 (Unedited): Starting my own programming bootcamp"
-category: learn-teach-code
+cats: learn-teach-code
 image:
   teaser: 2017-03-08-vlog.jpg
 ---

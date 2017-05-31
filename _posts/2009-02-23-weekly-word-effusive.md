@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Effusive"
 date: 2009-02-23 19:31
-categories: [Uncategorized]
+cats: [english]
 ---
 The adjective <em><a href="http://dictionary.reference.com/browse/effusive">effusive</a></em> means "overflowing", "extravagantly demonstrative", or "unrestrained or excessive in emotional expression". The verb form <em>to effuse</em> means "to pour out" or "to radiate".
 

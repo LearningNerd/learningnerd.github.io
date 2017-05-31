@@ -2,7 +2,7 @@
 layout: article
 title: "English Parts of Speech: Nouns and Pronouns"
 date: 2006-08-29 10:00
-categories: [English]
+cats: [english]
 permalink: /2006/08/29/english-parts-of-speech-nouns-and-pronouns/
 ---
 <em>Series index: </em><a href="http://learningnerd.com/2006/08/28/english-parts-of-speech-overview/"><em>English Parts of Speech Overview</em></a>

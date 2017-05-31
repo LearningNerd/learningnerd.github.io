@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Verisimilitude"
 date: 2006-12-27 19:33
-categories: [Uncategorized]
+cats: [english]
 ---
 <a href="http://dictionary.reference.com/browse/verisimilitude">Verisimilitude</a> - <em>n. the appearance or semblance of truth, or something, as an assertion, having merely the appearance of truth.</em>
 

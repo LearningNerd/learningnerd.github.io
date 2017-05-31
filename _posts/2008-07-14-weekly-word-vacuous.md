@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Vacuous"
 date: 2008-07-14 11:29
-categories: [Uncategorized]
+cats: [english]
 ---
 <em><a href="http://dictionary.reference.com/browse/vacuous">Vacuous</a></em> is an adjective meaning "without contents; empty". Its more specific meanings include "devoid of meaning", "devoid of expression", "lacking in ideas or intelligence", or "idle".
 

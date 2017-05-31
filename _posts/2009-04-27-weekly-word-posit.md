@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Posit"
 date: 2009-04-27 16:34
-categories: [Uncategorized]
+cats: [english]
 ---
 I've been reading a lot of scholarly journals lately for a school research paper, and I keep running across the word <em>posit</em>, as in "the first hypothesis posits that..." The verb <em>to <a href="http://dictionary.reference.com/browse/posit">posit</a></em> simply means "to place" or "to put". More specifically, it also means "to lay down or assume as a fact or principle" or "to put forward, as for consideration or study".
 

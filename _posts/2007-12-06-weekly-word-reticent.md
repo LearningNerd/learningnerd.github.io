@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Reticent"
 date: 2007-12-06 18:53
-categories: [Uncategorized]
+cats: [english]
 ---
 This sounds like an SAT word if I ever memorized one: <em><a href="http://dictionary.reference.com/browse/reticent">reticent</a></em>, an adjective meaning "restrained", "reluctant", or "disposed to be silent or not to speak freely". The noun form is <em>reticence</em>.
 

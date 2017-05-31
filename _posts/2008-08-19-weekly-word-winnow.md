@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Winnow"
 date: 2008-08-19 11:50
-categories: [Uncategorized]
+cats: [english]
 ---
 <div class="left"><img src="http://learningnerd.com/images/winnow.jpg" alt="" width="225" height="300" /><div class="caption">"Winnowing" by <a href="http://flickr.com/photos/mimk/400662560/" title="Winnowing">Maureen K</a></div></div>
 

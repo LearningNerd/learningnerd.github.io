@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Gelid"
 date: 2008-06-23 12:49
-categories: [Uncategorized]
+cats: [english]
 ---
 <em><a href="http://dictionary.reference.com/browse/gelid">Gelid</a></em> is just another way to say "extremely cold" or "icy", either literally or figuratively.
 

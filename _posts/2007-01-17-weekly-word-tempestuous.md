@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Tempestuous"
 date: 2007-01-17 14:56
-categories: [Uncategorized]
+cats: [english]
 ---
 A <em><a href="http://dictionary.reference.com/browse/tempest">tempest</a></em> is "a violent windstorm" or "a violent commotion, disturbance, or tumult." So, <em><a href="http://dictionary.reference.com/browse/tempestuous">tempestuous</a></em> is an adjective meaning "characterized by or subject to tempests" or "resembling a tempest".
 

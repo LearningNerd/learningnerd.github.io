@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Lucubrate"
 date: 2007-06-13 17:18
-categories: [Uncategorized]
+cats: [english]
 ---
 To <a href="http://dictionary.reference.com/browse/lucubrate">lucubrate</a> is "to write learnedly" or "to work, write, or study laboriously, esp. at night".
 

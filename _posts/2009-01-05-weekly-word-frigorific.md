@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Frigorific"
 date: 2009-01-05 15:29
-categories: [Uncategorized]
+cats: [english]
 ---
 Yup, <em><a href="http://dictionary.reference.com/browse/frigorific">frigorific</a></em> really is a word. It means "causing or producing cold".
 

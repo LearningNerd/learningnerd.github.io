@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Obnubilate"
 date: 2009-06-01 09:25
-categories: [Uncategorized]
+cats: [english]
 ---
 If you know your Latin roots, you'll know exactly what this one means. To <em><a href="http://dictionary.reference.com/browse/obnubilate">obnubilate</a></em> is "to obscure" or "cloud over".
 

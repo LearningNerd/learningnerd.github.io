@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: August"
 date: 2007-08-01 10:30
-categories: [Uncategorized]
+cats: [english]
 ---
 Since August is my birthday month (and therefore my favorite month of the year), I was happily surprised that <em><a href="http://dictionary.reference.com/browse/august">august</a></em> is also an adjective: "inspiring reverence or admiration; of supreme dignity or grandeur; majestic". A perfect description of me, don't you think? :P
 

@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Conflate"
 date: 2007-10-04 16:54
-categories: [Uncategorized]
+cats: [english]
 ---
 To <em><a href="http://dictionary.reference.com/browse/conflate">conflate</a></em> is "to bring together; meld or fuse".
 

@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Ersatz"
 date: 2009-02-18 08:40
-categories: [Uncategorized]
+cats: [english]
 ---
 The lovely German word <em><a href="http://dictionary.reference.com/browse/ersatz">ersatz</a></em> is both an adjective meaning "serving as a substitute" and a noun meaning "an artificial or inferior substitute".
 

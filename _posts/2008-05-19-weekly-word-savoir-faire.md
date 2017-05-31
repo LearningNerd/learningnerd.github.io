@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Savoir-faire"
 date: 2008-05-19 07:12
-categories: [Uncategorized]
+cats: [english]
 ---
 <em><a href="http://dictionary.reference.com/browse/savoir-faire">Savoir-faire</a></em> is "tact" or "knowledge of just what to do in any situation". It comes from French (duh!), from the words <em>savoir</em>, meaning "to know how", and <em>faire</em>, "to do".
 

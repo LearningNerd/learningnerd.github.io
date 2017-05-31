@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Foppotee"
 date: 2009-03-03 09:45
-categories: [Uncategorized]
+cats: [english]
 ---
 A <em>foppotee</em> is a simple-minded person. I found this one on <a href="http://www.savethewords.org/">Save the Words</a>, and according to The Phrontistery's list of <a href="http://phrontistery.info/clw2.html">lost words</a>, <em>foppotee</em> was used in 1663 and is now extinct.
 

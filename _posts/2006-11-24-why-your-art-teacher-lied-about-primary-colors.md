@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Why Your Art Teacher Lied About Primary Colors"
-categories: [Uncategorized]
+cats: [Uncategorized]
 ---
 In elementary school, my art teacher said the primary colors were red, blue, and yellow. I believed my art teacher. I looked up to my art teacher. And what does she do in return? She betrays me!
 

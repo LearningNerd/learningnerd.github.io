@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Miasma"
 date: 2009-05-19 08:33
-categories: [Uncategorized]
+cats: [english]
 ---
 <div class="right"><img src="http://learningnerd.com/images/miasma.jpg" alt="" width="300" height="220" /><div class="caption">Original photo by <a href="http://www.flickr.com/photos/offstandard/3033112633" title="Light and Darkness">offstandard</a></div></div>
 

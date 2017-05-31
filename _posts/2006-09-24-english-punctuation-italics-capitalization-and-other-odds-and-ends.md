@@ -2,7 +2,7 @@
 layout: article
 title: "English Punctuation: Italics, Capitalization, and Other Odds and Ends"
 date: 2006-09-24 09:36
-categories: [English]
+cats: [english]
 permalink: /2006/09/24/english-punctuation-italics-capitalization-and-other-odds-and-ends/
 ---
 <em>Series index: </em><a href="http://learningnerd.com/2006/09/14/english-punctuation-overview/"><em>English Punctuation Overview</em></a><em>.</em>

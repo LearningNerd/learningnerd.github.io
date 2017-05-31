@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Cruciverbalist"
 date: 2008-03-24 18:20
-categories: [Uncategorized]
+cats: [english]
 ---
 If you're into crossword puzzles, you better know this word! A <a href="http://dictionary.reference.com/browse/cruciverbalist">cruciverbalist</a> is "a designer or aficionado of crossword puzzles". According to <a href="http://www.worldwidewords.org/weirdwords/ww-cru1.htm" title="Cruciverbalist">World Wide Words</a>, "there is also cruciverbalism, for the art of crossword compilation or crossword fandom generally, but that is much rarer."
 

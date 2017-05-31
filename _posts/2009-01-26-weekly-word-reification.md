@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Reification"
 date: 2009-01-26 19:05
-categories: [Uncategorized]
+cats: [english]
 ---
 <em><a href="http://dictionary.reference.com/browse/reification">Reification</a></em> is the "act of materializing". In other words, to <em>reify</em> is "to convert into or regard as a concrete thing". Another more specific definition describes it as "representing a human being as a physical thing deprived of personal qualities or individuality".
 

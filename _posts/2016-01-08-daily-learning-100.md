@@ -1,7 +1,9 @@
 ---
 layout: article
 title: "My last daily video blog! (Daily Learning Vlog #100)"
-category: vlog
+cats:
+  - vlog
+  - daily
 ---
 
 This is it! A quick vlog to reflect on what I learned from making 100 videos in 100 days. Thanks to everyone who shared this crazy journey with me, because our covnersations are what made this all worthwhile! As for what's next... I'll still make 3 videos next week and I hope to gradually transition away from thrown-together vlogs and towards more polished videos again. For right now, though, I just can't wait to experience a day without doing any filming or video editing -- I forgot what that feels like!

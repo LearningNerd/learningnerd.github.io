@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Insularity"
 date: 2007-12-16 20:07
-categories: [Uncategorized]
+cats: [english]
 ---
 <em><a href="http://dictionary.reference.com/browse/insularity">Insularity</a></em> means "the state of being isolated or detached". The word <em>insulation</em> can have the same meaning, though it usually refers to "a material that reduces or prevents the transmission of heat or sound or electricity". The verb <em>to insulate</em> can mean both "to use insulating material" and "to isolate".
 

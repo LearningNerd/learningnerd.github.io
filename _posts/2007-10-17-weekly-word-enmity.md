@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Enmity"
 date: 2007-10-17 10:03
-categories: [Uncategorized]
+cats: [english]
 ---
 <em><a href="http://dictionary.reference.com/browse/enmity">Enmity</a></em> (or <em>enmities</em>, plural) is "a feeling or condition of hostility; hatred; ill will; animosity; antagonism".
 

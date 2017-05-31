@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Tantivy"
 date: 2008-05-12 13:59
-categories: [Uncategorized]
+cats: [english]
 ---
 <a href="http://dictionary.reference.com/browse/tantivy">Tantivy</a> means "a gallop" as a noun, "swift;rapid" as an adjective, and "at full gallop" as an adverb. It's also an interjection "used as a hunting cry when the chase is at full speed".
 

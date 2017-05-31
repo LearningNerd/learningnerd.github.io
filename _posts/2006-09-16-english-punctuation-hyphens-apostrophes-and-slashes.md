@@ -2,7 +2,7 @@
 layout: article
 title: "English Punctuation: Hyphens, Apostrophes, and Slashes"
 date: 2006-09-16 11:09
-categories: [English]
+cats: [english]
 permalink: /2006/09/16/english-punctuation-hyphens-apostrophes-and-slashes/
 ---
 <em>Series index: </em><a href="http://learningnerd.com/2006/09/14/english-punctuation-overview/"><em>English Punctuation Overview</em></a><em>.</em>

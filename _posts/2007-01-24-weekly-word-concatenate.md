@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Concatenate"
 date: 2007-01-24 21:05
-categories: [Uncategorized]
+cats: [english]
 ---
 While doing some research on <a href="http://programming.learningnerd.com/tag/php/" title="ProgrammingNerd PHP Category">PHP</a>, I came across this strange word several times. What does it mean? How do you pronounce it? Well, to <em><a href="http://dictionary.reference.com/browse/concatenate">concatenate</a></em> is "to link together; unite in a series or chain", and it sounds like <a href="http://www.m-w.com/cgi-bin/audio.pl?concat02.wav=concatenate" title="Merriam-Webster Pronunciation of Concatenate">this</a>.
 

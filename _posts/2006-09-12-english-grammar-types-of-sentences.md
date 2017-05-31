@@ -2,7 +2,7 @@
 layout: article
 title: "English Grammar: Types of Sentences"
 date: 2006-09-12 09:20
-categories: [English]
+cats: [english]
 permalink: /2006/09/12/english-grammar-types-of-sentences/
 ---
 <em>Got grammar? See </em><a href="http://learningnerd.com/2006/09/26/everything-you-need-to-improve-your-english-grammar/"><em>Everything You Need to Improve Your English Grammar</em></a><em>.</em>

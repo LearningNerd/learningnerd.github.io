@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Feckless"
 date: 2009-03-31 11:37
-categories: [Uncategorized]
+cats: [english]
 ---
 <em><a href="http://">Feckless</a></em> is a weird adjective that means "ineffective", "futile", "lazy", or "indifferent".
 

@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Nutate"
 date: 2008-04-07 10:43
-categories: [Uncategorized]
+cats: [english]
 ---
 To <em><a href="http://dictionary.reference.com/browse/nutate">nutate</a></em> generally means to "rock, sway, or nod; usually involuntarily". It comes from Latin <em>nutare</em>, meaning "to nod repeatedly". But the noun <em><a href="http://dictionary.reference.com/browse/nutation">nutation</a></em> has several specific meanings:
 

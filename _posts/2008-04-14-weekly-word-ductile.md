@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Ductile"
 date: 2008-04-14 19:02
-categories: [Uncategorized]
+cats: [english]
 ---
 Something that's <em><a href="http://dictionary.reference.com/browse/ductile">ductile</a></em> is "easily molded or shaped", "easily drawn into wire or hammered thin", or "easily influenced".
 

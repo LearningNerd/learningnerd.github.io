@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Contiguous"
 date: 2009-07-20 22:32
-categories: [Uncategorized]
+cats: [english]
 ---
 <em><a href="http://dictionary.reference.com/browse/contiguous">Contiguous</a></em> is an adjective that means "touching", "adjacent", or "near" -- either physically or with respect to time.
 

@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Abstruse"
 date: 2009-08-11 08:42
-categories: [Uncategorized]
+cats: [english]
 ---
 The adjective <em><a href="http://dictionary.reference.com/browse/abstruse">abstruse</a></em> means "hard to understand".
 

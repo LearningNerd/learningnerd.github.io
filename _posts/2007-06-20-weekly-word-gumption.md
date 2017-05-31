@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Gumption"
 date: 2007-06-20 13:55
-categories: [Uncategorized]
+cats: [english]
 ---
 <em><a href="http://dictionary.reference.com/browse/gumption">Gumption</a></em> is an informal noun that means "initiative", "aggressiveness", "resourcefulness", "courage", "common sense", and "shrewdness". In other words, it's a good quality to have.
 

@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Prosaic"
 date: 2007-08-22 18:40
-categories: [Uncategorized]
+cats: [english]
 ---
 <em><a href="http://dictionary.reference.com/browse/prosaic">Prosaic</a></em>  (or the fancier version <em>prosaical</em>) means "of or having the character or form of prose rather than poetry" or "commonplace or dull; matter-of-fact or unimaginative".
 

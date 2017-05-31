@@ -1,6 +1,5 @@
 ---
-layout: archive
-permalink: /vlog/
+name: vlog
 title: "Daily Vlog Experiment"
 ---
 
@@ -9,12 +8,17 @@ From October 2015 to January 2016, I made 100 daily video blogs in 100 days to s
 ## January 2016
 
 <div class="tiles">
-{% for post in site.categories.vlog %}
-	{% capture year %}{{ post.date | date: "%Y" }}{% endcapture %}
-	{% if year != "2017" %}
+
+  {% for post in site.posts %}
+    {% if post.cats contains 'vlog' %}
+      {% capture year %}{{ post.date | date: "%Y" }}{% endcapture %}
+
+	  {% if year != "2017" %}
 		{% include post-list.html %}
-	{% endif %}
-{% endfor %}
+	  {% endif %}
+
+    {% endif %}
+  {% endfor %}
 </div><!-- /.tiles -->
 
 ## December 2015
@@ -22,9 +26,11 @@ From October 2015 to January 2016, I made 100 daily video blogs in 100 days to s
 My December 2015 project: see if I can not only (re)learn math but also learn to love it, and make a daily video to share the process!
 
 <div class="tiles">
-{% for post in site.categories.math %}
-	{% include post-list.html %}
-{% endfor %}
+  {% for post in site.posts %}
+    {% if post.cats contains 'math' %}
+      {% include post-list.html %}
+    {% endif %}
+  {% endfor %}
 </div><!-- /.tiles -->
 
 ## October and November 2015

@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Perambulate"
 date: 2006-12-20 21:21
-categories: [Uncategorized]
+cats: [english]
 ---
 <a href="http://dictionary.reference.com/browse/perambulate">Perambulate</a> - <em>v. to walk or travel about; stroll. To traverse in order to examine or inspect.</em>
 

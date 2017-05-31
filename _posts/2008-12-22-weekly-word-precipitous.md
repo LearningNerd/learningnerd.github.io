@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Precipitous"
 date: 2008-12-22 22:04
-categories: [Uncategorized]
+cats: [english]
 ---
 <div class="left"><img src="http://learningnerd.com/images/precipitous.jpg" alt="" width="224" height="300" /><div class="caption">Original photo by <a href="http://flickr.com/photos/fergiec/103283314/" title="Cliff Edge in Galway">Fergal Carr</a></div></div>
 

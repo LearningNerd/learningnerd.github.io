@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Tenuous"
 date: 2007-05-09 22:44
-categories: [Uncategorized]
+cats: [english]
 ---
 <a href="http://dictionary.reference.com/browse/tenuous"><em>Tenuous</em></a> is an adjective with a few meanings:
 

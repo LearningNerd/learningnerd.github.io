@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Ineffable"
 date: 2007-05-23 14:50
-categories: [Uncategorized]
+cats: [english]
 ---
 <em><a href="http://dictionary.reference.com/browse/ineffable">Ineffable</a></em> is an adjective that means "incapable of being expressed or described in words". Something can also be <em><a href="http://dictionary.reference.com/browse/effable">effable</a></em>, the opposite of <em>ineffable</em>, but for some reason the word <em>effable</em> never seems to show up anywhere.
 

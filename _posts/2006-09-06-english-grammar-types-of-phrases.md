@@ -2,7 +2,7 @@
 layout: article
 title: "English Grammar: Types of Phrases"
 date: 2006-09-06 09:42
-categories: [English]
+cats: [english]
 permalink: /2006/09/06/english-grammar-types-of-phrases/
 ---
 <em>Got grammar? See </em><a href="http://learningnerd.com/2006/09/26/everything-you-need-to-improve-your-english-grammar/"><em>Everything You Need to Improve Your English Grammar</em></a><em>.</em>

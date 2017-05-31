@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Boondoggle"
 date: 2007-03-14 21:35
-categories: [Uncategorized]
+cats: [english]
 ---
 From <a href="http://www.merriam-webster.com/cgi-bin/mwwodarch.pl?Mar.12.2007">Merriam-Webster's Word of the Day</a>, I came across the word <a href="http://dictionary.reference.com/browse/boondoggle">boondoggle</a>. It has a few meanings:
 

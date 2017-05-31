@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Superjacent"
 date: 2009-04-14 07:49
-categories: [Uncategorized]
+cats: [english]
 ---
 This word made me laugh because it sounds like it means "something that is extremely jacent." Unfortunately, <em><a href="http://dictionary.reference.com/browse/superjacent">superjacent</a></em> isn't nearly that interesting; it just means "lying above", like <em>adjacent</em> means "lying next to".
 

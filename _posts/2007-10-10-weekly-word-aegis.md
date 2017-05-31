@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Aegis"
 date: 2007-10-10 15:09
-categories: [Uncategorized]
+cats: [english]
 ---
 Here's an odd-sounding word: <em><a href="http://dictionary.reference.com/browse/aegis">aegis</a></em>, pronounced <em>ee-jis</em> or <em>ay-jis</em>. It's a noun meaning "protection; support" or "sponsorship; auspices".
 

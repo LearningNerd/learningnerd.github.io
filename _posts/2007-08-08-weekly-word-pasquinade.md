@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Pasquinade"
 date: 2007-08-08 14:47
-categories: [Uncategorized]
+cats: [english]
 ---
 This might make me sound like a dork (or a nerd), but I associate this word with the cartoon series <a href="http://en.wikipedia.org/wiki/Hey_Arnold!">"Hey Arnold!"</a>, where I heard it for the first time in an episode about a spelling bee. I never bothered to look it up until now.
 

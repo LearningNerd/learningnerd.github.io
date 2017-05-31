@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Tarantism"
 date: 2008-03-31 13:06
-categories: [Uncategorized]
+cats: [english]
 ---
 Possibly one of the strangest things I've heard of, <em><a href="http://dictionary.reference.com/browse/tarantism">tarantism</a></em> is "a mania characterized by an uncontrollable impulse to dance, esp. as prevalent in southern Italy from the 15th to the 17th century, popularly attributed to the bite of the tarantula". Not just any tarantula, though. It's specifically attributed to the European wolf spider.
 

@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Occlude"
 date: 2007-11-07 16:42
-categories: [Uncategorized]
+cats: [english]
 ---
 To <em><a href="http://dictionary.reference.com/browse/occlude">occlude</a></em> is "to close, shut, or stop up". Simple word, simple meaning -- and yet I've never run across it before! Maybe my mind was occluded by other thoughts, so I just never remember seeing it. I do have a tendency to just skip over the words I don't know, because I'm too lazy to look them up. But don't tell anyone that!
 

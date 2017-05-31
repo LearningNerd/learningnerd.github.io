@@ -2,7 +2,7 @@
 layout: article
 title: "English Parts of Speech: Prepositions, Conjunctions, and Interjections"
 date: 2006-09-04 10:24
-categories: [English]
+cats: [english]
 permalink: /2006/09/04/english-parts-of-speech-prepositions-conjunctions-and-interjections/
 ---
 <em>Series index: </em><a href="http://learningnerd.com/2006/08/28/english-parts-of-speech-overview/"><em>English Parts of Speech Overview</em></a>

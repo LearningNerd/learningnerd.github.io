@@ -2,7 +2,7 @@
 layout: article
 title: "English Grammar: Types of Clauses"
 date: 2006-09-08 10:06
-categories: [English]
+cats: [english]
 permalink: /2006/09/08/english-grammar-types-of-clauses/
 ---
 <em>Got grammar? See </em><a href="http://learningnerd.com/2006/09/26/everything-you-need-to-improve-your-english-grammar/"><em>Everything You Need to Improve Your English Grammar</em></a><em>.</em>

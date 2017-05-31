@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Malinger"
 date: 2007-05-02 08:35
-categories: [Uncategorized]
+cats: [english]
 ---
 This is the first new word I've found in a while that I'd actually use regularly. <a href="http://dictionary.reference.com/browse/malinger"><em>Malinger</em></a>: "To feign illness or other incapacity in order to avoid duty or work."
 

@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Innumerate"
 date: 2008-07-28 21:36
-categories: [Uncategorized]
+cats: [english]
 ---
 <em><a href="http://dictionary.reference.com/browse/innumerate">Innumerate</a></em> means "unfamiliar with mathematical concepts and methods" -- in other words, <em>innumeracy</em> is another way of saying "numerical illiteracy".
 

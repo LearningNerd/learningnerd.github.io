@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Bricolage"
 date: 2007-07-04 12:38
-categories: [Uncategorized]
+cats: [english]
 ---
 Unfortunately, I'm socially well-adjusted and easily understood, according to this little <a href="http://in-sidemarketing.blogspot.com/2007/07/test-your-vocabulary-part-three.html">Vocabulary Quiz from Word Sell</a>. One word I thought I knew was <em>bricolage</em>. "Oh, bricolage, I've heard that before! Isn't it -- no, never mind. Maybe it was -- no, that's <a href="http://en.wikipedia.org/wiki/Ricola">Ricola</a>. Argh!" I guess I'm not as much of a word nerd as I thought.
 

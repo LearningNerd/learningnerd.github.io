@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Diablerie"
 date: 2007-03-07 15:28
-categories: [Uncategorized]
+cats: [english]
 ---
 <em><a href="http://dictionary.reference.com/browse/diablerie">Diablerie</a></em> is a noun that comes from the French word for devil, and it has several meanings:
 

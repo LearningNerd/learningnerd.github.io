@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Epistemological"
 date: 2007-08-29 20:05
-categories: [Uncategorized]
+cats: [english]
 ---
 Yesterday, in my first college class, the syllabus had this quote by Annie Dillard: "The writing has changed, in your hands, and in a twinkling, from an expression of your notions to an epistemological tool." Then the professor asked if anyone in the class knew what <em>epistemological</em> means. No hands were raised. I knew it had to mean "relating to epistemology", but I didn't know what that meant either.
 

@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Pernoctation"
 date: 2008-01-22 06:30
-categories: [Uncategorized]
+cats: [english]
 ---
 <em><a href="http://dictionary.reference.com/browse/pernoctation">Pernoctation</a></em>, a not-so-common word, means "the act or state of passing the whole night; a remaining all night".
 

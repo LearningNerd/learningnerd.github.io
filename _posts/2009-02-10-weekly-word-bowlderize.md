@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Bowlderize"
 date: 2009-02-10 10:02
-categories: [Uncategorized]
+cats: [english]
 ---
 To <em><a href="http://dictionary.reference.com/browse/bowdlerize">bowlderize</a></em> means "to remove material that is considered offensive or objectionable" from a book or other written work.
 

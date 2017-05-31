@@ -2,7 +2,7 @@
 layout: article
 title: "English Punctuation: Periods, Question Marks, and Exclamation Marks"
 date: 2006-09-18 10:28
-categories: [English]
+cats: [english]
 permalink: /2006/09/18/english-punctuation-periods-question-marks-and-exclamation-marks/
 ---
 <em>Series index: </em><a href="http://learningnerd.com/2006/09/14/english-punctuation-overview/"><em>English Punctuation Overview</em></a><em>.</em>

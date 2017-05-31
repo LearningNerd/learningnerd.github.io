@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Belay"
 date: 2007-09-19 08:18
-categories: [Uncategorized]
+cats: [english]
 ---
 Arr, it be <a href="http://www.talklikeapirate.com/">Talk Like a Pirate Day</a>! To celebrate this fine event, I learned a new piratical word: to <em><a href="http://dictionary.reference.com/browse/belay">belay</a></em>. It's often used as a command meaning "to stop", as in "Belay that landlubber's talk!" Or it can mean "to ignore (an announcement, order, etc.)", as in "Yarr, belay that order! I need me rum!"
 

@@ -2,7 +2,7 @@
 layout: article
 title: "Improve Your Vocabulary"
 date: 2006-08-19 09:22
-categories: [English]
+cats: [english]
 permalink: /2006/08/19/improve-your-vocabulary/
 ---
 A good vocabulary is, for lack of a better word, good to have. I’d like to think I have a decent vocabulary, but I’m often unable to find the word I’m looking for. Sure, I’ve seen lots of words – I’ve probably even looked up their definitions – but I hardly ever remember them. So, starting now, I’m going to gradually incorporate more words into my daily usage.

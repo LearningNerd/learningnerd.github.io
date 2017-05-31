@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Flocculate"
 date: 2009-01-21 08:38
-categories: [Uncategorized]
+cats: [english]
 ---
 To <em><a href="http://www.merriam-webster.com/cgi-bin/mwwodarch.pl?Jan.20.2009">flocculate</a></em> means "to aggregate or coalesce into small lumps or loose clusters". This word obviously doesn't come up every day. It is used in chemistry, though. From <a href="http://www.merriam-webster.com/cgi-bin/mwwodarch.pl?Jan.20.2009">Merriam-Webster</a>:
 

@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Philtrum"
 date: 2008-06-02 10:13
-categories: [Uncategorized]
+cats: [english]
 ---
 <div class="figureleft"><img src="http://learningnerd.com/images/philtrum.jpg" alt="" /></div>
 

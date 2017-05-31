@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Dog Days"
 date: 2009-09-07 20:36
-categories: [Uncategorized]
+cats: [english]
 ---
 The <em><a href="http://dictionary.reference.com/browse/dog+days">dog days</a></em> refer to "the sultry part of the summer, supposed to occur during the period that Sirius, the Dog Star, rises at the same time as the sun: now often reckoned from July 3 to August 11". More generally, this phrase can also refer to "a period marked by lethargy, inactivity, or indolence".
 

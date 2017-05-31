@@ -17,16 +17,18 @@ title:
 
 <h2>Featured Videos:</h2>
 <div class="tiles">
-{% for post in site.categories.featured %}
-	{% include post-list.html %}
-{% endfor %}
+  {% for post in site.posts %}
+    {% if post.cats contains 'featured' %}
+      {% include post-list.html %}
+    {% endif %}
+  {% endfor %}
 </div><!-- /.tiles -->
 
 <h2>Archive of Some of My Old Blog Posts:</h2>
 <div class="tiles">
 {% for post in site.posts %}
-    {% unless post.categories contains 'featured' %}
-	{% include post-list.html %}
+    {% unless post.cats contains 'featured' %}
+	  {% include post-list.html %}
 	{% endunless %}
 {% endfor %}
 </div><!-- /.tiles -->

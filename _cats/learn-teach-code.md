@@ -1,6 +1,5 @@
 ---
-layout: archive
-permalink: /learn-teach-code/
+name: learn-teach-code
 title: "Learn Teach Code: Documenting My Journey"
 ---
 
@@ -11,7 +10,9 @@ For **March 2017**, my newest (and craziest!) project is to start **my own progr
 **Here are all my blog posts and video blogs for this project so far:**
 
 <div class="tiles">
-{% for post in site.categories.learn-teach-code %}
-	{% include post-grid.html %}
-{% endfor %}
+  {% for post in site.posts %}
+    {% if post.cats contains page.name %}
+      {% include post-list.html %}
+    {% endif %}
+  {% endfor %}
 </div><!-- /.tiles -->

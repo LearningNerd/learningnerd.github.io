@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Atrabilious"
 date: 2007-06-06 11:05
-categories: [Uncategorized]
+cats: [english]
 ---
 The adjective <em><a href="http://dictionary.reference.com/browse/atrabilious">atrabilious</a></em> means "gloomy", "melancholy", "irritable", and "bad-tempered".
 

@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Weissnichtwo"
 date: 2009-05-25 19:34
-categories: [Uncategorized]
+cats: [english]
 ---
 The <a href="http://www.spellingbee.com/">2009 Scripps National Spelling Bee</a> is this week, and the website lists two of the spellers' favorite words: <em><a href="http://www.merriam-webster.com/dictionary/humuhumunukunukuapuaa">humuhumunukunukuapuaa</a></em> ("a small Hawaiian triggerfish") and <em><a href="http://www.merriam-webster.com/dictionary/weissnichtwo">Weissnichtwo</a></em>, which is "an indefinite, unknown, or imaginary place". I don't even know how to pronounce it, never mind spell it!
 

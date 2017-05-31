@@ -2,7 +2,7 @@
 layout: article
 title: "Number Sense in Animals"
 date: 2012-11-11 19:15
-category: featured
+cats: featured
 ---
 <p>From horses that do math (not really) to ants that count, here's a compilation of some of my favorite research on the numerical abilities of animals.</p>
 

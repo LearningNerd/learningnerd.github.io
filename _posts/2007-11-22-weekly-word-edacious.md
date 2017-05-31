@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Edacious"
 date: 2007-11-22 12:58
-categories: [Uncategorized]
+cats: [english]
 ---
 Like <em>ravenous</em>, <em>rapacious</em>, and <em>voracious</em>, the word <em><a href="http://dictionary.reference.com/browse/edacious">edacious</a></em> relates to having a big appetite. It's defined as "devouring", "consuming", "greedy", or "craving food in great quantities". Sounds like somebody I know. ;)
 

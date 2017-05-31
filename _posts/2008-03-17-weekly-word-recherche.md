@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Recherche"
 date: 2008-03-17 19:18
-categories: [Uncategorized]
+cats: [english]
 ---
 The adjective <em><a href="http://dictionary.reference.com/browse/recherche">recherche</a></em> means "rare", "exotic", "of studied refinement or elegance", or "pretentious". As you may have guessed, this word comes from French. It's pronounced "ruh-sher-shay" (listen to the pronunciation at <a href="http://www.merriam-webster.com/cgi-bin/audio.pl?recher01.wav=recherche" title="Pronunciation of Recherche">Merriam-Webster</a>).
 

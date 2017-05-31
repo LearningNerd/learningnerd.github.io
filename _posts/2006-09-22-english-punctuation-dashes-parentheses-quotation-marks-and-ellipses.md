@@ -2,7 +2,7 @@
 layout: article
 title: "English Punctuation: Dashes, Parentheses, Quotation Marks, and Ellipses"
 date: 2006-09-22 11:15
-categories: [English]
+cats: [english]
 permalink: /2006/09/22/english-punctuation-dashes-parentheses-quotation-marks-and-ellipses/
 ---
 <em>Series index: </em><a href="http://learningnerd.com/2006/09/14/english-punctuation-overview/"><em>English Punctuation Overview.</em></a>

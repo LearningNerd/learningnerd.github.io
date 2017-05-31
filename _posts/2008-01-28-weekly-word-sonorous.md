@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Sonorous"
 date: 2008-01-28 19:50
-categories: [Uncategorized]
+cats: [english]
 ---
 The adjective <em><a href="http://dictionary.reference.com/browse/sonorous">sonorous</a></em> means "capable of giving out a sound", "rich and full in sound", "grandiloquent", or "loud, deep, or resonant". It derives from the Latin word <em>sonor</em>, meaning <em>sound</em>.
 

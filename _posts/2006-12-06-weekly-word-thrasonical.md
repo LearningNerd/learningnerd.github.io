@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Thrasonical"
 date: 2006-12-06 23:52
-categories: [Uncategorized]
+cats: [english]
 ---
 <a href="http://dictionary.reference.com/search?db=dictionary&q=thrasonical">Thrasonical</a> - <em>adj. boastful; vainglorious.</em>
 

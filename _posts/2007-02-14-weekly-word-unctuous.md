@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Unctuous"
 date: 2007-02-14 20:29
-categories: [Uncategorized]
+cats: [english]
 ---
 The adjective <em><a href="http://dictionary.reference.com/browse/unctuous">unctuous</a></em> has a few meanings:
 

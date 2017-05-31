@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Draconian"
 date: 2007-03-01 09:22
-categories: [Uncategorized]
+cats: [english]
 ---
 <a href="http://dictionary.reference.com/browse/draconian">Draconian</a> - <em>adj. rigorous; unusually severe or cruel.</em>
 

@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Cursory"
 date: 2008-08-04 18:23
-categories: [Uncategorized]
+cats: [english]
 ---
 <em><a href="http://dictionary.reference.com/browse/cursory">Cursory</a></em> is an adjective meaning "going rapidly over something, without noticing details; hasty; superficial".
 

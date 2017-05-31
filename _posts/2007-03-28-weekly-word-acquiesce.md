@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Acquiesce"
 date: 2007-03-28 10:47
-categories: [Uncategorized]
+cats: [english]
 ---
 This word always reminds me of that line from <em>Pirates of the Caribbean</em>: "I'm disinclined to acquiesce your request." <a href="http://dictionary.reference.com/browse/acquiesce"><em>Acquiesce</em></a> is a fancy, French-derived word that simply means to agree.
 

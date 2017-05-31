@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Hat Trick"
 date: 2007-10-25 15:30
-categories: [Uncategorized]
+cats: [english]
 ---
 I always thought of hat tricks as <a href="http://www.trickswithhats.org/">tricks with hats</a>, but apparently the phrase has other meanings. The most general definition of a <em><a href="http://dictionary.reference.com/browse/hat%20trick">hat trick</a></em> is "Three consecutive wins or outstanding accomplishments by the same individual". Even less specifically, it can mean "a clever or adroitly deceptive maneuver".
 

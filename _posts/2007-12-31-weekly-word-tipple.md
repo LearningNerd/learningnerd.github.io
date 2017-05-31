@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Tipple"
 date: 2007-12-31 19:35
-categories: [Uncategorized]
+cats: [english]
 ---
 May you tipple your way to a very happy new year! And have a drink for me, because I'm not 21 yet. :( To <em><a href="http://dictionary.reference.com/browse/tipple">tipple</a></em> means "to drink intoxicating liquor, esp. habitually or to some excess."
 

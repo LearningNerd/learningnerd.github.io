@@ -1,15 +1,18 @@
-{% if page.categories and page.categories != empty %}
+{% if page.cats and page.cats != empty %}
   <nav class="breadcrumbs">
     <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
       <a class="bold" href="{{ site.url }}" itemprop="url">
         <span itemprop="title">Home</span>
       </a> › <span class="bold" style="margin-left: 10px;">Categories:</span>  
-    {% for category in page.categories %}
+    {% for cat in page.cats %}
+      {% assign currentcat = site.cats | where: 'name', cat | first %}
+        {% if currentcat %}
         <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
-          <a href="{{ site.url }}/{{ category }}/" itemprop="url" style="margin: 0 5px;">
-            <span itemprop="title">{{ category | replace: '-',' '}}</span>
+          <a href="{{ site.url }}/{{ currentcat.url }}" itemprop="url" style="margin: 0 5px;">
+            <span itemprop="title">{{ currentcat.title }}</span>
           </a>
         </span>{% unless forloop.last %}  <span style="font-weight:700;">/</span>  {% endunless %}
+        {% endif %}
     {% endfor %}    
   </nav><!-- /.breadcrumbs -->
 {% endif %}

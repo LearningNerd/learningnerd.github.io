@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Moonstruck"
 date: 2009-06-09 07:48
-categories: [Uncategorized]
+cats: [english]
 ---
 The adjective <em><a href="http://dictionary.reference.com/browse/moonstruck">moonstruck</a></em> means "mentally deranged, supposedly by the influence of the moon" or "dreamily romantic". Since people who are in love are also described as crazy, it's not so surprising that this word refers to both at the same time. Love, insanity, the moon -- this word has a dramatic story built right into its definition! That's why it's a perfect title for a movie:
 

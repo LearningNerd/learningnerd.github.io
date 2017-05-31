@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Malkin"
 date: 2007-01-10 14:01
-categories: [Uncategorized]
+cats: [english]
 ---
 I found this word from the wonderful <a href="http://wordsmith.org/awad/index.html">A.Word.A.Day</a> site. Also spelled <em>maukin</em> or <em>mawkin</em>, <em><a href="http://dictionary.reference.com/browse/malkin">malkin</a></em> is a noun with a number of different meanings:
 

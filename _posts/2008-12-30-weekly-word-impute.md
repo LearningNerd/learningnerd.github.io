@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Impute"
 date: 2008-12-30 13:13
-categories: [Uncategorized]
+cats: [english]
 ---
 To <em><a href="http://dictionary.reference.com/browse/impute">impute</a></em> means "to attribute or ascribe". Unlike a lot of my previous words, this one isn't unusual or obscure in any way. It comes from Latin <em>imputare</em>, a combination of <em>in-</em>, meaning "upon", and <em>putare</em>, meaning "reckon, clear up, trim, prune, settle" (<a href="http://www.etymonline.com/index.php?term=impute" title="Online Etymology Dictionary - impute">OED</a>). Related words include <em>dispute</em>, <em>compute</em>, and even <em>amputate</em>.
 

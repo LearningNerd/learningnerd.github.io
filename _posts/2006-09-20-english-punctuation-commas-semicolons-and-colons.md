@@ -2,7 +2,7 @@
 layout: article
 title: "English Punctuation: Commas, Semicolons, and Colons"
 date: 2006-09-20 10:11
-categories: [English]
+cats: [english]
 permalink: /2006/09/20/english-punctuation-commas-semicolons-and-colons/
 ---
 <em>Series index: </em><a href="http://learningnerd.com/2006/09/14/english-punctuation-overview/"><em>English Punctuation Overview</em></a><em>.</em>

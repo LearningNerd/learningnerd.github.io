@@ -2,7 +2,7 @@
 layout: article
 title: "Weekly Word: Gesticulate"
 date: 2007-04-18 11:49
-categories: [Uncategorized]
+cats: [english]
 ---
 To <a href="http://dictionary.reference.com/browse/gesticulate"><em>gesticulate</em></a> means "to make or use gestures, esp. in an animated or excited manner with or instead of speech."
 
