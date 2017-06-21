@@ -19,7 +19,7 @@ As a side project, I'm building a [turn-based mob programming web app](https://g
 
 **Mob Coding Blog Posts:**
 
-Many of my [**daily learning notes**](/daily/) are partially or entirely focused on what I've been experimenting and struggling with as I'm building this app, so I decided to create a category just for this topic!
+Many of my [**daily learning notes**](/daily/) are partially or entirely focused on what I've been learning, experimenting, and struggling with as I'm building this app, so I decided to create a category just for this topic!
 
 <div class="tiles">
   {% for post in site.posts %}
