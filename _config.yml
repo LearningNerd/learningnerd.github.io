@@ -14,7 +14,7 @@ permalink: /:title/
 kramdown:
   toc_levels: 1..2
 highlighter: rouge
-gems:
+plugins:
   - jekyll-sitemap
 repository: learningnerd/learningnerd.github.com
 
